@@ -1,0 +1,2666 @@
+INFO - 2022-02-09 15:25:55 --> Config Class Initialized
+INFO - 2022-02-09 15:25:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:25:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:25:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:25:55 --> URI Class Initialized
+DEBUG - 2022-02-09 15:25:55 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:25:55 --> Router Class Initialized
+INFO - 2022-02-09 15:25:55 --> Output Class Initialized
+INFO - 2022-02-09 15:25:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:25:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:25:55 --> Input Class Initialized
+INFO - 2022-02-09 15:25:55 --> Language Class Initialized
+INFO - 2022-02-09 15:25:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:25:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:25:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:25:55 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:25:55 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:25:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:25:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:25:55 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:25:55 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:25:55 --> Encryption Class Initialized
+INFO - 2022-02-09 15:25:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:25:55 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:25:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headd.php
+INFO - 2022-02-09 15:25:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headerd.php
+INFO - 2022-02-09 15:25:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footerd.php
+INFO - 2022-02-09 15:25:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footd.php
+INFO - 2022-02-09 15:25:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:25:55 --> Final output sent to browser
+DEBUG - 2022-02-09 15:25:55 --> Total execution time: 0.0842
+INFO - 2022-02-09 15:25:56 --> Config Class Initialized
+INFO - 2022-02-09 15:25:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:25:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:25:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:25:56 --> URI Class Initialized
+DEBUG - 2022-02-09 15:25:56 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:25:56 --> Router Class Initialized
+INFO - 2022-02-09 15:25:56 --> Output Class Initialized
+INFO - 2022-02-09 15:25:56 --> Security Class Initialized
+DEBUG - 2022-02-09 15:25:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:25:56 --> Input Class Initialized
+INFO - 2022-02-09 15:25:56 --> Language Class Initialized
+INFO - 2022-02-09 15:25:56 --> Loader Class Initialized
+INFO - 2022-02-09 15:25:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:25:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:25:56 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:25:56 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:25:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:25:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:25:56 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:25:56 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:25:56 --> Encryption Class Initialized
+INFO - 2022-02-09 15:25:56 --> Controller Class Initialized
+INFO - 2022-02-09 15:25:56 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:25:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headd.php
+INFO - 2022-02-09 15:25:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headerd.php
+INFO - 2022-02-09 15:25:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footerd.php
+INFO - 2022-02-09 15:25:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footd.php
+INFO - 2022-02-09 15:25:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:25:56 --> Final output sent to browser
+DEBUG - 2022-02-09 15:25:56 --> Total execution time: 0.0659
+INFO - 2022-02-09 15:25:57 --> Config Class Initialized
+INFO - 2022-02-09 15:25:57 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:25:57 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:25:57 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:25:57 --> URI Class Initialized
+DEBUG - 2022-02-09 15:25:57 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:25:57 --> Router Class Initialized
+INFO - 2022-02-09 15:25:57 --> Output Class Initialized
+INFO - 2022-02-09 15:25:57 --> Security Class Initialized
+DEBUG - 2022-02-09 15:25:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:25:57 --> Input Class Initialized
+INFO - 2022-02-09 15:25:57 --> Language Class Initialized
+INFO - 2022-02-09 15:25:58 --> Loader Class Initialized
+INFO - 2022-02-09 15:25:58 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:25:58 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:25:58 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:25:58 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:25:58 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:25:58 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:25:58 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:25:58 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:25:58 --> Encryption Class Initialized
+INFO - 2022-02-09 15:25:58 --> Controller Class Initialized
+INFO - 2022-02-09 15:25:58 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:25:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headd.php
+INFO - 2022-02-09 15:25:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headerd.php
+INFO - 2022-02-09 15:25:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footerd.php
+INFO - 2022-02-09 15:25:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footd.php
+INFO - 2022-02-09 15:25:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:25:58 --> Final output sent to browser
+DEBUG - 2022-02-09 15:25:58 --> Total execution time: 0.1207
+INFO - 2022-02-09 15:26:00 --> Config Class Initialized
+INFO - 2022-02-09 15:26:00 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:26:00 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:26:00 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:26:00 --> URI Class Initialized
+DEBUG - 2022-02-09 15:26:00 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:26:00 --> Router Class Initialized
+INFO - 2022-02-09 15:26:00 --> Output Class Initialized
+INFO - 2022-02-09 15:26:00 --> Security Class Initialized
+DEBUG - 2022-02-09 15:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:26:00 --> Input Class Initialized
+INFO - 2022-02-09 15:26:00 --> Language Class Initialized
+INFO - 2022-02-09 15:26:00 --> Loader Class Initialized
+INFO - 2022-02-09 15:26:00 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:26:00 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:26:00 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:26:00 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:26:00 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:26:00 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:26:00 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:26:00 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:26:00 --> Encryption Class Initialized
+INFO - 2022-02-09 15:26:00 --> Controller Class Initialized
+INFO - 2022-02-09 15:26:00 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:26:00 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headd.php
+INFO - 2022-02-09 15:26:00 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/headerd.php
+INFO - 2022-02-09 15:26:00 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footerd.php
+INFO - 2022-02-09 15:26:00 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footd.php
+INFO - 2022-02-09 15:26:00 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:26:00 --> Final output sent to browser
+DEBUG - 2022-02-09 15:26:00 --> Total execution time: 0.1002
+INFO - 2022-02-09 15:34:02 --> Config Class Initialized
+INFO - 2022-02-09 15:34:02 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:34:02 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:34:02 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:34:02 --> URI Class Initialized
+DEBUG - 2022-02-09 15:34:02 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:34:02 --> Router Class Initialized
+INFO - 2022-02-09 15:34:02 --> Output Class Initialized
+INFO - 2022-02-09 15:34:02 --> Security Class Initialized
+DEBUG - 2022-02-09 15:34:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:34:02 --> Input Class Initialized
+INFO - 2022-02-09 15:34:02 --> Language Class Initialized
+INFO - 2022-02-09 15:34:02 --> Loader Class Initialized
+INFO - 2022-02-09 15:34:02 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:34:02 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:34:02 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:34:02 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:34:02 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:34:02 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:34:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:34:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:34:02 --> Encryption Class Initialized
+INFO - 2022-02-09 15:34:02 --> Controller Class Initialized
+INFO - 2022-02-09 15:34:02 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:34:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:34:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:34:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:34:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:34:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:34:02 --> Final output sent to browser
+DEBUG - 2022-02-09 15:34:02 --> Total execution time: 0.0897
+INFO - 2022-02-09 15:38:11 --> Config Class Initialized
+INFO - 2022-02-09 15:38:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:38:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:38:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:38:11 --> URI Class Initialized
+DEBUG - 2022-02-09 15:38:11 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:38:11 --> Router Class Initialized
+INFO - 2022-02-09 15:38:11 --> Output Class Initialized
+INFO - 2022-02-09 15:38:11 --> Security Class Initialized
+DEBUG - 2022-02-09 15:38:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:38:11 --> Input Class Initialized
+INFO - 2022-02-09 15:38:11 --> Language Class Initialized
+INFO - 2022-02-09 15:38:11 --> Loader Class Initialized
+INFO - 2022-02-09 15:38:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:38:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:38:11 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:38:11 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:38:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:38:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:38:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:38:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:38:11 --> Encryption Class Initialized
+INFO - 2022-02-09 15:38:11 --> Controller Class Initialized
+INFO - 2022-02-09 15:38:11 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:38:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:38:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:38:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:38:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:38:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:38:11 --> Final output sent to browser
+DEBUG - 2022-02-09 15:38:11 --> Total execution time: 0.1115
+INFO - 2022-02-09 15:40:19 --> Config Class Initialized
+INFO - 2022-02-09 15:40:19 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:40:19 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:40:19 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:40:19 --> URI Class Initialized
+DEBUG - 2022-02-09 15:40:19 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:40:19 --> Router Class Initialized
+INFO - 2022-02-09 15:40:19 --> Output Class Initialized
+INFO - 2022-02-09 15:40:19 --> Security Class Initialized
+DEBUG - 2022-02-09 15:40:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:40:19 --> Input Class Initialized
+INFO - 2022-02-09 15:40:19 --> Language Class Initialized
+INFO - 2022-02-09 15:40:19 --> Loader Class Initialized
+INFO - 2022-02-09 15:40:19 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:40:19 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:40:19 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:40:19 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:40:19 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:40:19 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:40:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:40:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:40:19 --> Encryption Class Initialized
+INFO - 2022-02-09 15:40:19 --> Controller Class Initialized
+INFO - 2022-02-09 15:40:19 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:40:19 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:40:19 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:40:19 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:40:19 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:40:19 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:40:19 --> Final output sent to browser
+DEBUG - 2022-02-09 15:40:19 --> Total execution time: 0.1108
+INFO - 2022-02-09 15:42:38 --> Config Class Initialized
+INFO - 2022-02-09 15:42:38 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:42:38 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:42:38 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:42:38 --> URI Class Initialized
+DEBUG - 2022-02-09 15:42:38 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:42:38 --> Router Class Initialized
+INFO - 2022-02-09 15:42:38 --> Output Class Initialized
+INFO - 2022-02-09 15:42:38 --> Security Class Initialized
+DEBUG - 2022-02-09 15:42:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:42:38 --> Input Class Initialized
+INFO - 2022-02-09 15:42:38 --> Language Class Initialized
+INFO - 2022-02-09 15:42:38 --> Loader Class Initialized
+INFO - 2022-02-09 15:42:38 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:42:38 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:42:38 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:42:38 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:42:38 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:42:38 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:42:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:42:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:42:38 --> Encryption Class Initialized
+INFO - 2022-02-09 15:42:38 --> Controller Class Initialized
+INFO - 2022-02-09 15:42:38 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:42:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:42:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:42:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:42:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:42:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:42:38 --> Final output sent to browser
+DEBUG - 2022-02-09 15:42:38 --> Total execution time: 0.1012
+INFO - 2022-02-09 15:43:23 --> Config Class Initialized
+INFO - 2022-02-09 15:43:23 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:43:23 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:43:23 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:43:23 --> URI Class Initialized
+DEBUG - 2022-02-09 15:43:23 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:43:23 --> Router Class Initialized
+INFO - 2022-02-09 15:43:23 --> Output Class Initialized
+INFO - 2022-02-09 15:43:23 --> Security Class Initialized
+DEBUG - 2022-02-09 15:43:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:43:23 --> Input Class Initialized
+INFO - 2022-02-09 15:43:23 --> Language Class Initialized
+INFO - 2022-02-09 15:43:23 --> Loader Class Initialized
+INFO - 2022-02-09 15:43:23 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:43:23 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:43:23 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:43:23 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:43:23 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:43:23 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:43:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:43:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:43:23 --> Encryption Class Initialized
+INFO - 2022-02-09 15:43:23 --> Controller Class Initialized
+INFO - 2022-02-09 15:43:23 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:43:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:43:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:43:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:43:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:43:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:43:23 --> Final output sent to browser
+DEBUG - 2022-02-09 15:43:23 --> Total execution time: 0.0596
+INFO - 2022-02-09 15:45:54 --> Config Class Initialized
+INFO - 2022-02-09 15:45:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:45:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:45:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:45:54 --> URI Class Initialized
+DEBUG - 2022-02-09 15:45:54 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:45:54 --> Router Class Initialized
+INFO - 2022-02-09 15:45:54 --> Output Class Initialized
+INFO - 2022-02-09 15:45:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:45:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:45:55 --> Input Class Initialized
+INFO - 2022-02-09 15:45:55 --> Language Class Initialized
+INFO - 2022-02-09 15:45:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:45:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:45:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:45:55 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:45:55 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:45:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:45:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:45:55 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:45:55 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:45:55 --> Encryption Class Initialized
+INFO - 2022-02-09 15:45:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:45:55 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:45:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:45:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:45:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:45:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:45:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:45:55 --> Final output sent to browser
+DEBUG - 2022-02-09 15:45:55 --> Total execution time: 1.6844
+INFO - 2022-02-09 15:49:55 --> Config Class Initialized
+INFO - 2022-02-09 15:49:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:49:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:49:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:49:55 --> URI Class Initialized
+DEBUG - 2022-02-09 15:49:55 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:49:55 --> Router Class Initialized
+INFO - 2022-02-09 15:49:55 --> Output Class Initialized
+INFO - 2022-02-09 15:49:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:49:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:49:55 --> Input Class Initialized
+INFO - 2022-02-09 15:49:55 --> Language Class Initialized
+INFO - 2022-02-09 15:49:55 --> Loader Class Initialized
+INFO - 2022-02-09 15:49:55 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:49:55 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:49:55 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:49:55 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:49:55 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:49:55 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:49:55 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:49:55 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:49:55 --> Encryption Class Initialized
+INFO - 2022-02-09 15:49:55 --> Controller Class Initialized
+INFO - 2022-02-09 15:49:55 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:49:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:49:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:49:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:49:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:49:55 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:49:55 --> Final output sent to browser
+DEBUG - 2022-02-09 15:49:55 --> Total execution time: 0.2260
+INFO - 2022-02-09 15:49:57 --> Config Class Initialized
+INFO - 2022-02-09 15:49:57 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:49:57 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:49:57 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:49:57 --> URI Class Initialized
+INFO - 2022-02-09 15:49:57 --> Router Class Initialized
+INFO - 2022-02-09 15:49:57 --> Output Class Initialized
+INFO - 2022-02-09 15:49:57 --> Security Class Initialized
+DEBUG - 2022-02-09 15:49:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:49:57 --> Input Class Initialized
+INFO - 2022-02-09 15:49:57 --> Language Class Initialized
+ERROR - 2022-02-09 15:49:57 --> 404 Page Not Found: Aboutus/index
+INFO - 2022-02-09 15:50:09 --> Config Class Initialized
+INFO - 2022-02-09 15:50:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:50:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:50:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:50:09 --> URI Class Initialized
+DEBUG - 2022-02-09 15:50:09 --> No URI present. Default controller set.
+INFO - 2022-02-09 15:50:09 --> Router Class Initialized
+INFO - 2022-02-09 15:50:09 --> Output Class Initialized
+INFO - 2022-02-09 15:50:09 --> Security Class Initialized
+DEBUG - 2022-02-09 15:50:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:50:09 --> Input Class Initialized
+INFO - 2022-02-09 15:50:09 --> Language Class Initialized
+INFO - 2022-02-09 15:50:09 --> Loader Class Initialized
+INFO - 2022-02-09 15:50:09 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:50:09 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:50:09 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:50:09 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:50:09 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:50:09 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:50:09 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:50:09 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:50:09 --> Encryption Class Initialized
+INFO - 2022-02-09 15:50:09 --> Controller Class Initialized
+INFO - 2022-02-09 15:50:09 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:50:09 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:50:09 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:50:09 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:50:09 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:50:09 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 15:50:09 --> Final output sent to browser
+DEBUG - 2022-02-09 15:50:09 --> Total execution time: 0.0486
+INFO - 2022-02-09 15:50:10 --> Config Class Initialized
+INFO - 2022-02-09 15:50:10 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:50:10 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:50:10 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:50:10 --> URI Class Initialized
+INFO - 2022-02-09 15:50:10 --> Router Class Initialized
+INFO - 2022-02-09 15:50:10 --> Output Class Initialized
+INFO - 2022-02-09 15:50:10 --> Security Class Initialized
+DEBUG - 2022-02-09 15:50:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:50:10 --> Input Class Initialized
+INFO - 2022-02-09 15:50:10 --> Language Class Initialized
+ERROR - 2022-02-09 15:50:10 --> 404 Page Not Found: About-us/index
+INFO - 2022-02-09 15:50:39 --> Config Class Initialized
+INFO - 2022-02-09 15:50:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:50:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:50:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:50:39 --> URI Class Initialized
+INFO - 2022-02-09 15:50:39 --> Router Class Initialized
+INFO - 2022-02-09 15:50:39 --> Output Class Initialized
+INFO - 2022-02-09 15:50:39 --> Security Class Initialized
+DEBUG - 2022-02-09 15:50:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:50:39 --> Input Class Initialized
+INFO - 2022-02-09 15:50:39 --> Language Class Initialized
+INFO - 2022-02-09 15:50:39 --> Loader Class Initialized
+INFO - 2022-02-09 15:50:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:50:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:50:39 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:50:39 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:50:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:50:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:50:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:50:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:50:39 --> Encryption Class Initialized
+INFO - 2022-02-09 15:50:39 --> Controller Class Initialized
+INFO - 2022-02-09 15:50:39 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:50:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:50:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:50:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:50:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:50:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\aboutus.php
+INFO - 2022-02-09 15:50:39 --> Final output sent to browser
+DEBUG - 2022-02-09 15:50:39 --> Total execution time: 0.0570
+INFO - 2022-02-09 15:50:49 --> Config Class Initialized
+INFO - 2022-02-09 15:50:49 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:50:49 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:50:49 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:50:49 --> URI Class Initialized
+INFO - 2022-02-09 15:50:49 --> Router Class Initialized
+INFO - 2022-02-09 15:50:49 --> Output Class Initialized
+INFO - 2022-02-09 15:50:49 --> Security Class Initialized
+DEBUG - 2022-02-09 15:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:50:49 --> Input Class Initialized
+INFO - 2022-02-09 15:50:49 --> Language Class Initialized
+ERROR - 2022-02-09 15:50:49 --> 404 Page Not Found: Our-serviceshtml/index
+INFO - 2022-02-09 15:55:01 --> Config Class Initialized
+INFO - 2022-02-09 15:55:01 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:55:01 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:55:01 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:55:01 --> URI Class Initialized
+INFO - 2022-02-09 15:55:01 --> Router Class Initialized
+INFO - 2022-02-09 15:55:01 --> Output Class Initialized
+INFO - 2022-02-09 15:55:01 --> Security Class Initialized
+DEBUG - 2022-02-09 15:55:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:55:01 --> Input Class Initialized
+INFO - 2022-02-09 15:55:01 --> Language Class Initialized
+INFO - 2022-02-09 15:55:01 --> Loader Class Initialized
+INFO - 2022-02-09 15:55:01 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:55:01 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:55:01 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:55:01 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:55:01 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:55:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:55:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:55:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:55:01 --> Encryption Class Initialized
+INFO - 2022-02-09 15:55:01 --> Controller Class Initialized
+INFO - 2022-02-09 15:55:01 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:55:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:55:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:55:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:55:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:55:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\aboutus.php
+INFO - 2022-02-09 15:55:01 --> Final output sent to browser
+DEBUG - 2022-02-09 15:55:01 --> Total execution time: 0.1448
+INFO - 2022-02-09 15:55:05 --> Config Class Initialized
+INFO - 2022-02-09 15:55:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:55:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:55:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:55:05 --> URI Class Initialized
+INFO - 2022-02-09 15:55:05 --> Router Class Initialized
+INFO - 2022-02-09 15:55:05 --> Output Class Initialized
+INFO - 2022-02-09 15:55:05 --> Security Class Initialized
+DEBUG - 2022-02-09 15:55:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:55:05 --> Input Class Initialized
+INFO - 2022-02-09 15:55:05 --> Language Class Initialized
+INFO - 2022-02-09 15:55:05 --> Loader Class Initialized
+INFO - 2022-02-09 15:55:05 --> Helper loaded: form_helper
+INFO - 2022-02-09 15:55:05 --> Helper loaded: url_helper
+INFO - 2022-02-09 15:55:05 --> Helper loaded: email_helper
+INFO - 2022-02-09 15:55:05 --> Helper loaded: array_helper
+INFO - 2022-02-09 15:55:05 --> Database Driver Class Initialized
+INFO - 2022-02-09 15:55:05 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 15:55:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 15:55:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 15:55:05 --> Encryption Class Initialized
+INFO - 2022-02-09 15:55:05 --> Controller Class Initialized
+INFO - 2022-02-09 15:55:05 --> Model "ModelCore" initialized
+INFO - 2022-02-09 15:55:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 15:55:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 15:55:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 15:55:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 15:55:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourservices.php
+INFO - 2022-02-09 15:55:05 --> Final output sent to browser
+DEBUG - 2022-02-09 15:55:05 --> Total execution time: 0.0795
+INFO - 2022-02-09 15:59:55 --> Config Class Initialized
+INFO - 2022-02-09 15:59:55 --> Hooks Class Initialized
+DEBUG - 2022-02-09 15:59:55 --> UTF-8 Support Enabled
+INFO - 2022-02-09 15:59:55 --> Utf8 Class Initialized
+INFO - 2022-02-09 15:59:55 --> URI Class Initialized
+INFO - 2022-02-09 15:59:55 --> Router Class Initialized
+INFO - 2022-02-09 15:59:55 --> Output Class Initialized
+INFO - 2022-02-09 15:59:55 --> Security Class Initialized
+DEBUG - 2022-02-09 15:59:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 15:59:55 --> Input Class Initialized
+INFO - 2022-02-09 15:59:55 --> Language Class Initialized
+ERROR - 2022-02-09 15:59:55 --> 404 Page Not Found: Our-vehicleshtml/index
+INFO - 2022-02-09 16:00:01 --> Config Class Initialized
+INFO - 2022-02-09 16:00:01 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:00:01 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:00:01 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:00:01 --> URI Class Initialized
+INFO - 2022-02-09 16:00:01 --> Router Class Initialized
+INFO - 2022-02-09 16:00:01 --> Output Class Initialized
+INFO - 2022-02-09 16:00:01 --> Security Class Initialized
+DEBUG - 2022-02-09 16:00:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:00:01 --> Input Class Initialized
+INFO - 2022-02-09 16:00:01 --> Language Class Initialized
+INFO - 2022-02-09 16:00:01 --> Loader Class Initialized
+INFO - 2022-02-09 16:00:01 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:00:01 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:00:01 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:00:01 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:00:01 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:00:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:00:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:00:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:00:01 --> Encryption Class Initialized
+INFO - 2022-02-09 16:00:01 --> Controller Class Initialized
+INFO - 2022-02-09 16:00:01 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:00:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:00:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:00:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:00:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:00:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourservices.php
+INFO - 2022-02-09 16:00:01 --> Final output sent to browser
+DEBUG - 2022-02-09 16:00:01 --> Total execution time: 0.0792
+INFO - 2022-02-09 16:00:02 --> Config Class Initialized
+INFO - 2022-02-09 16:00:02 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:00:02 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:00:02 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:00:02 --> URI Class Initialized
+INFO - 2022-02-09 16:00:02 --> Router Class Initialized
+INFO - 2022-02-09 16:00:02 --> Output Class Initialized
+INFO - 2022-02-09 16:00:02 --> Security Class Initialized
+DEBUG - 2022-02-09 16:00:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:00:02 --> Input Class Initialized
+INFO - 2022-02-09 16:00:02 --> Language Class Initialized
+INFO - 2022-02-09 16:00:02 --> Loader Class Initialized
+INFO - 2022-02-09 16:00:02 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:00:02 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:00:02 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:00:02 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:00:02 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:00:02 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:00:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:00:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:00:02 --> Encryption Class Initialized
+INFO - 2022-02-09 16:00:02 --> Controller Class Initialized
+INFO - 2022-02-09 16:00:02 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:00:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:00:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:00:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:00:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:00:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourvehicles.php
+INFO - 2022-02-09 16:00:02 --> Final output sent to browser
+DEBUG - 2022-02-09 16:00:02 --> Total execution time: 0.0611
+INFO - 2022-02-09 16:04:46 --> Config Class Initialized
+INFO - 2022-02-09 16:04:46 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:46 --> URI Class Initialized
+INFO - 2022-02-09 16:04:46 --> Router Class Initialized
+INFO - 2022-02-09 16:04:46 --> Output Class Initialized
+INFO - 2022-02-09 16:04:46 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:46 --> Input Class Initialized
+INFO - 2022-02-09 16:04:46 --> Language Class Initialized
+INFO - 2022-02-09 16:04:46 --> Loader Class Initialized
+INFO - 2022-02-09 16:04:46 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:04:46 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:04:46 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:04:46 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:04:46 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:04:46 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:04:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:04:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:04:46 --> Encryption Class Initialized
+INFO - 2022-02-09 16:04:46 --> Controller Class Initialized
+INFO - 2022-02-09 16:04:46 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:04:46 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:04:46 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:04:46 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:04:46 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:04:46 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourvehicles.php
+INFO - 2022-02-09 16:04:46 --> Final output sent to browser
+DEBUG - 2022-02-09 16:04:46 --> Total execution time: 0.3930
+INFO - 2022-02-09 16:04:51 --> Config Class Initialized
+INFO - 2022-02-09 16:04:51 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:04:51 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:04:51 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:04:51 --> URI Class Initialized
+INFO - 2022-02-09 16:04:51 --> Router Class Initialized
+INFO - 2022-02-09 16:04:51 --> Output Class Initialized
+INFO - 2022-02-09 16:04:51 --> Security Class Initialized
+DEBUG - 2022-02-09 16:04:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:04:51 --> Input Class Initialized
+INFO - 2022-02-09 16:04:51 --> Language Class Initialized
+INFO - 2022-02-09 16:04:51 --> Loader Class Initialized
+INFO - 2022-02-09 16:04:51 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:04:51 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:04:51 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:04:51 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:04:51 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:04:51 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:04:51 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:04:51 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:04:51 --> Encryption Class Initialized
+INFO - 2022-02-09 16:04:51 --> Controller Class Initialized
+INFO - 2022-02-09 16:04:51 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:07:00 --> Config Class Initialized
+INFO - 2022-02-09 16:07:00 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:07:00 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:07:00 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:07:00 --> URI Class Initialized
+INFO - 2022-02-09 16:07:00 --> Router Class Initialized
+INFO - 2022-02-09 16:07:00 --> Output Class Initialized
+INFO - 2022-02-09 16:07:00 --> Security Class Initialized
+DEBUG - 2022-02-09 16:07:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:07:00 --> Input Class Initialized
+INFO - 2022-02-09 16:07:00 --> Language Class Initialized
+INFO - 2022-02-09 16:07:00 --> Loader Class Initialized
+INFO - 2022-02-09 16:07:00 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:07:00 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:07:00 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:07:00 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:07:00 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:07:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:07:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:07:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:07:01 --> Encryption Class Initialized
+INFO - 2022-02-09 16:07:01 --> Controller Class Initialized
+INFO - 2022-02-09 16:07:01 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:07:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:07:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:07:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:07:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:07:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\packages.php
+INFO - 2022-02-09 16:07:01 --> Final output sent to browser
+DEBUG - 2022-02-09 16:07:01 --> Total execution time: 0.0770
+INFO - 2022-02-09 16:07:06 --> Config Class Initialized
+INFO - 2022-02-09 16:07:06 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:07:06 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:07:06 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:07:06 --> URI Class Initialized
+INFO - 2022-02-09 16:07:06 --> Router Class Initialized
+INFO - 2022-02-09 16:07:06 --> Output Class Initialized
+INFO - 2022-02-09 16:07:06 --> Security Class Initialized
+DEBUG - 2022-02-09 16:07:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:07:06 --> Input Class Initialized
+INFO - 2022-02-09 16:07:06 --> Language Class Initialized
+INFO - 2022-02-09 16:07:06 --> Loader Class Initialized
+INFO - 2022-02-09 16:07:06 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:07:06 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:07:06 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:07:06 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:07:06 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:07:06 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:07:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:07:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:07:06 --> Encryption Class Initialized
+INFO - 2022-02-09 16:07:06 --> Controller Class Initialized
+INFO - 2022-02-09 16:07:06 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:08:30 --> Config Class Initialized
+INFO - 2022-02-09 16:08:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:30 --> URI Class Initialized
+INFO - 2022-02-09 16:08:30 --> Router Class Initialized
+INFO - 2022-02-09 16:08:30 --> Output Class Initialized
+INFO - 2022-02-09 16:08:30 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:30 --> Input Class Initialized
+INFO - 2022-02-09 16:08:30 --> Language Class Initialized
+INFO - 2022-02-09 16:08:30 --> Loader Class Initialized
+INFO - 2022-02-09 16:08:30 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:08:30 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:08:30 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:08:30 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:08:30 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:08:30 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:08:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:08:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:08:30 --> Encryption Class Initialized
+INFO - 2022-02-09 16:08:30 --> Controller Class Initialized
+INFO - 2022-02-09 16:08:30 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:08:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:08:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:08:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:08:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:08:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 16:08:30 --> Final output sent to browser
+DEBUG - 2022-02-09 16:08:30 --> Total execution time: 0.0889
+INFO - 2022-02-09 16:08:50 --> Config Class Initialized
+INFO - 2022-02-09 16:08:50 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:08:50 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:08:50 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:08:50 --> URI Class Initialized
+INFO - 2022-02-09 16:08:50 --> Router Class Initialized
+INFO - 2022-02-09 16:08:50 --> Output Class Initialized
+INFO - 2022-02-09 16:08:50 --> Security Class Initialized
+DEBUG - 2022-02-09 16:08:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:08:50 --> Input Class Initialized
+INFO - 2022-02-09 16:08:50 --> Language Class Initialized
+ERROR - 2022-02-09 16:08:50 --> 404 Page Not Found: Sign-uphtml/index
+INFO - 2022-02-09 16:13:04 --> Config Class Initialized
+INFO - 2022-02-09 16:13:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:13:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:13:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:13:04 --> URI Class Initialized
+INFO - 2022-02-09 16:13:04 --> Router Class Initialized
+INFO - 2022-02-09 16:13:04 --> Output Class Initialized
+INFO - 2022-02-09 16:13:04 --> Security Class Initialized
+DEBUG - 2022-02-09 16:13:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:13:04 --> Input Class Initialized
+INFO - 2022-02-09 16:13:04 --> Language Class Initialized
+INFO - 2022-02-09 16:13:04 --> Loader Class Initialized
+INFO - 2022-02-09 16:13:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:13:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:13:04 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:13:04 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:13:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:13:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:13:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:13:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:13:04 --> Encryption Class Initialized
+INFO - 2022-02-09 16:13:04 --> Controller Class Initialized
+INFO - 2022-02-09 16:13:04 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:13:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:13:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:13:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:13:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:13:04 --> Final output sent to browser
+DEBUG - 2022-02-09 16:13:04 --> Total execution time: 0.0669
+INFO - 2022-02-09 16:13:35 --> Config Class Initialized
+INFO - 2022-02-09 16:13:35 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:13:35 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:13:35 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:13:35 --> URI Class Initialized
+INFO - 2022-02-09 16:13:35 --> Router Class Initialized
+INFO - 2022-02-09 16:13:35 --> Output Class Initialized
+INFO - 2022-02-09 16:13:35 --> Security Class Initialized
+DEBUG - 2022-02-09 16:13:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:13:35 --> Input Class Initialized
+INFO - 2022-02-09 16:13:35 --> Language Class Initialized
+INFO - 2022-02-09 16:13:35 --> Loader Class Initialized
+INFO - 2022-02-09 16:13:35 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:13:35 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:13:35 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:13:35 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:13:35 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:13:35 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:13:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:13:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:13:35 --> Encryption Class Initialized
+INFO - 2022-02-09 16:13:35 --> Controller Class Initialized
+INFO - 2022-02-09 16:13:35 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:13:35 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:13:35 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:13:35 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:13:35 --> Final output sent to browser
+DEBUG - 2022-02-09 16:13:35 --> Total execution time: 0.0613
+INFO - 2022-02-09 16:14:11 --> Config Class Initialized
+INFO - 2022-02-09 16:14:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:14:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:14:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:14:11 --> URI Class Initialized
+INFO - 2022-02-09 16:14:11 --> Router Class Initialized
+INFO - 2022-02-09 16:14:11 --> Output Class Initialized
+INFO - 2022-02-09 16:14:11 --> Security Class Initialized
+DEBUG - 2022-02-09 16:14:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:14:11 --> Input Class Initialized
+INFO - 2022-02-09 16:14:11 --> Language Class Initialized
+INFO - 2022-02-09 16:14:11 --> Loader Class Initialized
+INFO - 2022-02-09 16:14:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:14:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:14:11 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:14:11 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:14:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:14:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:14:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:14:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:14:11 --> Encryption Class Initialized
+INFO - 2022-02-09 16:14:11 --> Controller Class Initialized
+INFO - 2022-02-09 16:14:11 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:14:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:14:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:14:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:14:11 --> Final output sent to browser
+DEBUG - 2022-02-09 16:14:11 --> Total execution time: 0.0466
+INFO - 2022-02-09 16:15:22 --> Config Class Initialized
+INFO - 2022-02-09 16:15:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:15:22 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:15:22 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:15:22 --> URI Class Initialized
+INFO - 2022-02-09 16:15:22 --> Router Class Initialized
+INFO - 2022-02-09 16:15:22 --> Output Class Initialized
+INFO - 2022-02-09 16:15:22 --> Security Class Initialized
+DEBUG - 2022-02-09 16:15:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:15:22 --> Input Class Initialized
+INFO - 2022-02-09 16:15:22 --> Language Class Initialized
+INFO - 2022-02-09 16:15:22 --> Loader Class Initialized
+INFO - 2022-02-09 16:15:22 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:15:22 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:15:22 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:15:22 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:15:22 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:15:22 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:15:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:15:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:15:22 --> Encryption Class Initialized
+INFO - 2022-02-09 16:15:22 --> Controller Class Initialized
+INFO - 2022-02-09 16:15:22 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:15:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:15:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:15:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:15:22 --> Final output sent to browser
+DEBUG - 2022-02-09 16:15:22 --> Total execution time: 0.0609
+INFO - 2022-02-09 16:20:58 --> Config Class Initialized
+INFO - 2022-02-09 16:20:58 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:20:58 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:20:58 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:20:58 --> URI Class Initialized
+INFO - 2022-02-09 16:20:58 --> Router Class Initialized
+INFO - 2022-02-09 16:20:58 --> Output Class Initialized
+INFO - 2022-02-09 16:20:58 --> Security Class Initialized
+DEBUG - 2022-02-09 16:20:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:20:58 --> Input Class Initialized
+INFO - 2022-02-09 16:20:58 --> Language Class Initialized
+INFO - 2022-02-09 16:20:58 --> Loader Class Initialized
+INFO - 2022-02-09 16:20:58 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:20:58 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:20:58 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:20:58 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:20:58 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:20:58 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:20:58 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:20:58 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:20:58 --> Encryption Class Initialized
+INFO - 2022-02-09 16:20:58 --> Controller Class Initialized
+INFO - 2022-02-09 16:20:58 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:20:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:20:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:20:58 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:20:58 --> Final output sent to browser
+DEBUG - 2022-02-09 16:20:58 --> Total execution time: 0.0608
+INFO - 2022-02-09 16:20:59 --> Config Class Initialized
+INFO - 2022-02-09 16:20:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:20:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:20:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:20:59 --> URI Class Initialized
+INFO - 2022-02-09 16:20:59 --> Router Class Initialized
+INFO - 2022-02-09 16:20:59 --> Output Class Initialized
+INFO - 2022-02-09 16:20:59 --> Security Class Initialized
+DEBUG - 2022-02-09 16:20:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:20:59 --> Input Class Initialized
+INFO - 2022-02-09 16:20:59 --> Language Class Initialized
+INFO - 2022-02-09 16:20:59 --> Loader Class Initialized
+INFO - 2022-02-09 16:20:59 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:20:59 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:20:59 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:20:59 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:20:59 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:20:59 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:20:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:20:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:20:59 --> Encryption Class Initialized
+INFO - 2022-02-09 16:20:59 --> Controller Class Initialized
+INFO - 2022-02-09 16:20:59 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:20:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:20:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:20:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signin.php
+INFO - 2022-02-09 16:20:59 --> Final output sent to browser
+DEBUG - 2022-02-09 16:20:59 --> Total execution time: 0.0634
+INFO - 2022-02-09 16:21:04 --> Config Class Initialized
+INFO - 2022-02-09 16:21:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:21:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:21:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:21:04 --> URI Class Initialized
+INFO - 2022-02-09 16:21:04 --> Router Class Initialized
+INFO - 2022-02-09 16:21:04 --> Output Class Initialized
+INFO - 2022-02-09 16:21:04 --> Security Class Initialized
+DEBUG - 2022-02-09 16:21:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:21:04 --> Input Class Initialized
+INFO - 2022-02-09 16:21:04 --> Language Class Initialized
+INFO - 2022-02-09 16:21:04 --> Loader Class Initialized
+INFO - 2022-02-09 16:21:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:21:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:21:04 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:21:04 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:21:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:21:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:21:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:21:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:21:04 --> Encryption Class Initialized
+INFO - 2022-02-09 16:21:04 --> Controller Class Initialized
+INFO - 2022-02-09 16:21:04 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:21:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:21:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:21:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 16:21:04 --> Final output sent to browser
+DEBUG - 2022-02-09 16:21:04 --> Total execution time: 0.0658
+INFO - 2022-02-09 16:21:56 --> Config Class Initialized
+INFO - 2022-02-09 16:21:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:21:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:21:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:21:56 --> URI Class Initialized
+INFO - 2022-02-09 16:21:56 --> Router Class Initialized
+INFO - 2022-02-09 16:21:56 --> Output Class Initialized
+INFO - 2022-02-09 16:21:56 --> Security Class Initialized
+DEBUG - 2022-02-09 16:21:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:21:56 --> Input Class Initialized
+INFO - 2022-02-09 16:21:56 --> Language Class Initialized
+ERROR - 2022-02-09 16:21:56 --> 404 Page Not Found: Ride-with-cabgohtml/index
+INFO - 2022-02-09 16:25:28 --> Config Class Initialized
+INFO - 2022-02-09 16:25:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:25:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:25:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:25:28 --> URI Class Initialized
+INFO - 2022-02-09 16:25:28 --> Router Class Initialized
+INFO - 2022-02-09 16:25:28 --> Output Class Initialized
+INFO - 2022-02-09 16:25:28 --> Security Class Initialized
+DEBUG - 2022-02-09 16:25:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:25:28 --> Input Class Initialized
+INFO - 2022-02-09 16:25:28 --> Language Class Initialized
+INFO - 2022-02-09 16:25:28 --> Loader Class Initialized
+INFO - 2022-02-09 16:25:28 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:25:28 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:25:28 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:25:28 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:25:28 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:25:28 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:25:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:25:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:25:28 --> Encryption Class Initialized
+INFO - 2022-02-09 16:25:28 --> Controller Class Initialized
+INFO - 2022-02-09 16:25:28 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:25:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:25:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:25:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:25:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:25:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 16:25:28 --> Final output sent to browser
+DEBUG - 2022-02-09 16:25:28 --> Total execution time: 0.1658
+INFO - 2022-02-09 16:25:29 --> Config Class Initialized
+INFO - 2022-02-09 16:25:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:25:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:25:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:25:29 --> URI Class Initialized
+INFO - 2022-02-09 16:25:29 --> Router Class Initialized
+INFO - 2022-02-09 16:25:29 --> Output Class Initialized
+INFO - 2022-02-09 16:25:29 --> Security Class Initialized
+DEBUG - 2022-02-09 16:25:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:25:29 --> Input Class Initialized
+INFO - 2022-02-09 16:25:29 --> Language Class Initialized
+INFO - 2022-02-09 16:25:29 --> Loader Class Initialized
+INFO - 2022-02-09 16:25:29 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:25:29 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:25:29 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:25:29 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:25:29 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:25:29 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:25:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:25:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:25:29 --> Encryption Class Initialized
+INFO - 2022-02-09 16:25:29 --> Controller Class Initialized
+INFO - 2022-02-09 16:25:29 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:25:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:25:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:25:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:25:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:25:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:25:29 --> Final output sent to browser
+DEBUG - 2022-02-09 16:25:29 --> Total execution time: 0.0615
+INFO - 2022-02-09 16:26:27 --> Config Class Initialized
+INFO - 2022-02-09 16:26:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:26:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:26:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:26:27 --> URI Class Initialized
+INFO - 2022-02-09 16:26:27 --> Router Class Initialized
+INFO - 2022-02-09 16:26:27 --> Output Class Initialized
+INFO - 2022-02-09 16:26:27 --> Security Class Initialized
+DEBUG - 2022-02-09 16:26:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:26:27 --> Input Class Initialized
+INFO - 2022-02-09 16:26:27 --> Language Class Initialized
+INFO - 2022-02-09 16:26:27 --> Loader Class Initialized
+INFO - 2022-02-09 16:26:27 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:26:27 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:26:27 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:26:27 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:26:27 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:26:27 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:26:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:26:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:26:27 --> Encryption Class Initialized
+INFO - 2022-02-09 16:26:27 --> Controller Class Initialized
+INFO - 2022-02-09 16:26:27 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:26:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:26:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:26:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:26:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:26:27 --> Final output sent to browser
+DEBUG - 2022-02-09 16:26:27 --> Total execution time: 0.0526
+INFO - 2022-02-09 16:27:22 --> Config Class Initialized
+INFO - 2022-02-09 16:27:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:27:23 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:27:23 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:27:23 --> URI Class Initialized
+INFO - 2022-02-09 16:27:23 --> Router Class Initialized
+INFO - 2022-02-09 16:27:23 --> Output Class Initialized
+INFO - 2022-02-09 16:27:23 --> Security Class Initialized
+DEBUG - 2022-02-09 16:27:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:27:23 --> Input Class Initialized
+INFO - 2022-02-09 16:27:23 --> Language Class Initialized
+INFO - 2022-02-09 16:27:23 --> Loader Class Initialized
+INFO - 2022-02-09 16:27:23 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:27:23 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:27:23 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:27:23 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:27:23 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:27:23 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:27:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:27:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:27:23 --> Encryption Class Initialized
+INFO - 2022-02-09 16:27:23 --> Controller Class Initialized
+INFO - 2022-02-09 16:27:23 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:27:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:27:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:27:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:27:23 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:27:23 --> Final output sent to browser
+DEBUG - 2022-02-09 16:27:23 --> Total execution time: 0.0579
+INFO - 2022-02-09 16:28:15 --> Config Class Initialized
+INFO - 2022-02-09 16:28:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:28:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:28:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:28:15 --> URI Class Initialized
+INFO - 2022-02-09 16:28:15 --> Router Class Initialized
+INFO - 2022-02-09 16:28:15 --> Output Class Initialized
+INFO - 2022-02-09 16:28:15 --> Security Class Initialized
+DEBUG - 2022-02-09 16:28:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:28:15 --> Input Class Initialized
+INFO - 2022-02-09 16:28:15 --> Language Class Initialized
+INFO - 2022-02-09 16:28:15 --> Loader Class Initialized
+INFO - 2022-02-09 16:28:15 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:28:15 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:28:15 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:28:15 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:28:15 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:28:15 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:28:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:28:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:28:15 --> Encryption Class Initialized
+INFO - 2022-02-09 16:28:15 --> Controller Class Initialized
+INFO - 2022-02-09 16:28:15 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:28:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:28:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:28:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:28:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:28:15 --> Final output sent to browser
+DEBUG - 2022-02-09 16:28:15 --> Total execution time: 0.0671
+INFO - 2022-02-09 16:34:50 --> Config Class Initialized
+INFO - 2022-02-09 16:34:50 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:34:50 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:34:50 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:34:50 --> URI Class Initialized
+INFO - 2022-02-09 16:34:50 --> Router Class Initialized
+INFO - 2022-02-09 16:34:50 --> Output Class Initialized
+INFO - 2022-02-09 16:34:50 --> Security Class Initialized
+DEBUG - 2022-02-09 16:34:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:34:50 --> Input Class Initialized
+INFO - 2022-02-09 16:34:50 --> Language Class Initialized
+INFO - 2022-02-09 16:34:50 --> Loader Class Initialized
+INFO - 2022-02-09 16:34:50 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:34:50 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:34:50 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:34:50 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:34:50 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:34:50 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:34:50 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:34:50 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:34:50 --> Encryption Class Initialized
+INFO - 2022-02-09 16:34:50 --> Controller Class Initialized
+INFO - 2022-02-09 16:34:50 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:34:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:34:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 16:34:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:34:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:34:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 16:34:50 --> Final output sent to browser
+DEBUG - 2022-02-09 16:34:50 --> Total execution time: 0.0547
+INFO - 2022-02-09 16:34:54 --> Config Class Initialized
+INFO - 2022-02-09 16:34:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:34:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:34:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:34:54 --> URI Class Initialized
+INFO - 2022-02-09 16:34:54 --> Router Class Initialized
+INFO - 2022-02-09 16:34:54 --> Output Class Initialized
+INFO - 2022-02-09 16:34:54 --> Security Class Initialized
+DEBUG - 2022-02-09 16:34:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:34:54 --> Input Class Initialized
+INFO - 2022-02-09 16:34:54 --> Language Class Initialized
+INFO - 2022-02-09 16:34:54 --> Loader Class Initialized
+INFO - 2022-02-09 16:34:54 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:34:54 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:34:54 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:34:54 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:34:54 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:34:54 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:34:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:34:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:34:54 --> Encryption Class Initialized
+INFO - 2022-02-09 16:34:54 --> Controller Class Initialized
+INFO - 2022-02-09 16:34:54 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:34:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:34:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:34:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:34:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:34:54 --> Final output sent to browser
+DEBUG - 2022-02-09 16:34:54 --> Total execution time: 0.0665
+INFO - 2022-02-09 16:34:56 --> Config Class Initialized
+INFO - 2022-02-09 16:34:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:34:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:34:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:34:56 --> URI Class Initialized
+INFO - 2022-02-09 16:34:56 --> Router Class Initialized
+INFO - 2022-02-09 16:34:56 --> Output Class Initialized
+INFO - 2022-02-09 16:34:56 --> Security Class Initialized
+DEBUG - 2022-02-09 16:34:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:34:56 --> Input Class Initialized
+INFO - 2022-02-09 16:34:56 --> Language Class Initialized
+INFO - 2022-02-09 16:34:56 --> Loader Class Initialized
+INFO - 2022-02-09 16:34:56 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:34:56 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:34:56 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:34:56 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:34:56 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:34:56 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:34:56 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:34:56 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:34:56 --> Encryption Class Initialized
+INFO - 2022-02-09 16:34:56 --> Controller Class Initialized
+INFO - 2022-02-09 16:34:56 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:34:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:34:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:34:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:34:56 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 16:34:56 --> Final output sent to browser
+DEBUG - 2022-02-09 16:34:56 --> Total execution time: 0.0581
+INFO - 2022-02-09 16:34:59 --> Config Class Initialized
+INFO - 2022-02-09 16:34:59 --> Hooks Class Initialized
+DEBUG - 2022-02-09 16:34:59 --> UTF-8 Support Enabled
+INFO - 2022-02-09 16:34:59 --> Utf8 Class Initialized
+INFO - 2022-02-09 16:34:59 --> URI Class Initialized
+INFO - 2022-02-09 16:34:59 --> Router Class Initialized
+INFO - 2022-02-09 16:34:59 --> Output Class Initialized
+INFO - 2022-02-09 16:34:59 --> Security Class Initialized
+DEBUG - 2022-02-09 16:34:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 16:34:59 --> Input Class Initialized
+INFO - 2022-02-09 16:34:59 --> Language Class Initialized
+INFO - 2022-02-09 16:34:59 --> Loader Class Initialized
+INFO - 2022-02-09 16:34:59 --> Helper loaded: form_helper
+INFO - 2022-02-09 16:34:59 --> Helper loaded: url_helper
+INFO - 2022-02-09 16:34:59 --> Helper loaded: email_helper
+INFO - 2022-02-09 16:34:59 --> Helper loaded: array_helper
+INFO - 2022-02-09 16:34:59 --> Database Driver Class Initialized
+INFO - 2022-02-09 16:34:59 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 16:34:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 16:34:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 16:34:59 --> Encryption Class Initialized
+INFO - 2022-02-09 16:34:59 --> Controller Class Initialized
+INFO - 2022-02-09 16:34:59 --> Model "ModelCore" initialized
+INFO - 2022-02-09 16:34:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 16:34:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 16:34:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 16:34:59 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\customerdashboard.php
+INFO - 2022-02-09 16:34:59 --> Final output sent to browser
+DEBUG - 2022-02-09 16:34:59 --> Total execution time: 0.0520
+INFO - 2022-02-09 18:44:45 --> Config Class Initialized
+INFO - 2022-02-09 18:44:45 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:44:46 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:44:46 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:44:46 --> URI Class Initialized
+INFO - 2022-02-09 18:44:46 --> Router Class Initialized
+INFO - 2022-02-09 18:44:46 --> Output Class Initialized
+INFO - 2022-02-09 18:44:47 --> Security Class Initialized
+DEBUG - 2022-02-09 18:44:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:44:47 --> Input Class Initialized
+INFO - 2022-02-09 18:44:47 --> Language Class Initialized
+INFO - 2022-02-09 18:44:47 --> Loader Class Initialized
+INFO - 2022-02-09 18:44:47 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:44:47 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:44:47 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:44:47 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:44:48 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:44:48 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:44:48 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:44:48 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:44:48 --> Encryption Class Initialized
+INFO - 2022-02-09 18:44:48 --> Controller Class Initialized
+INFO - 2022-02-09 18:44:48 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:44:49 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:44:49 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:44:49 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:44:49 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\driverdashboard.php
+INFO - 2022-02-09 18:44:49 --> Final output sent to browser
+DEBUG - 2022-02-09 18:44:49 --> Total execution time: 4.6433
+INFO - 2022-02-09 18:45:24 --> Config Class Initialized
+INFO - 2022-02-09 18:45:24 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:45:24 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:45:24 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:45:24 --> URI Class Initialized
+INFO - 2022-02-09 18:45:24 --> Router Class Initialized
+INFO - 2022-02-09 18:45:24 --> Output Class Initialized
+INFO - 2022-02-09 18:45:25 --> Security Class Initialized
+DEBUG - 2022-02-09 18:45:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:45:25 --> Input Class Initialized
+INFO - 2022-02-09 18:45:25 --> Language Class Initialized
+INFO - 2022-02-09 18:45:25 --> Loader Class Initialized
+INFO - 2022-02-09 18:45:25 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:45:25 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:45:25 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:45:25 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:45:25 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:45:25 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:45:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:45:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:45:25 --> Encryption Class Initialized
+INFO - 2022-02-09 18:45:25 --> Controller Class Initialized
+INFO - 2022-02-09 18:45:25 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:45:25 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:45:25 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:45:25 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:45:25 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\driverdashboard.php
+INFO - 2022-02-09 18:45:25 --> Final output sent to browser
+DEBUG - 2022-02-09 18:45:25 --> Total execution time: 0.9594
+INFO - 2022-02-09 18:46:26 --> Config Class Initialized
+INFO - 2022-02-09 18:46:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:46:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:46:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:46:26 --> URI Class Initialized
+INFO - 2022-02-09 18:46:26 --> Router Class Initialized
+INFO - 2022-02-09 18:46:26 --> Output Class Initialized
+INFO - 2022-02-09 18:46:26 --> Security Class Initialized
+DEBUG - 2022-02-09 18:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:46:26 --> Input Class Initialized
+INFO - 2022-02-09 18:46:26 --> Language Class Initialized
+INFO - 2022-02-09 18:46:26 --> Loader Class Initialized
+INFO - 2022-02-09 18:46:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:46:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:46:26 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:46:26 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:46:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:46:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:46:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:46:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:46:26 --> Encryption Class Initialized
+INFO - 2022-02-09 18:46:26 --> Controller Class Initialized
+INFO - 2022-02-09 18:46:26 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:46:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:46:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:46:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:46:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\driverdashboard.php
+INFO - 2022-02-09 18:46:26 --> Final output sent to browser
+DEBUG - 2022-02-09 18:46:26 --> Total execution time: 0.2912
+INFO - 2022-02-09 18:48:49 --> Config Class Initialized
+INFO - 2022-02-09 18:48:49 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:48:49 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:48:49 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:48:49 --> URI Class Initialized
+INFO - 2022-02-09 18:48:49 --> Router Class Initialized
+INFO - 2022-02-09 18:48:49 --> Output Class Initialized
+INFO - 2022-02-09 18:48:50 --> Security Class Initialized
+DEBUG - 2022-02-09 18:48:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:48:50 --> Input Class Initialized
+INFO - 2022-02-09 18:48:50 --> Language Class Initialized
+INFO - 2022-02-09 18:48:50 --> Loader Class Initialized
+INFO - 2022-02-09 18:48:50 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:48:50 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:48:50 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:48:50 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:48:50 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:48:50 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:48:50 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:48:50 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:48:50 --> Encryption Class Initialized
+INFO - 2022-02-09 18:48:50 --> Controller Class Initialized
+INFO - 2022-02-09 18:48:50 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:48:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:48:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:48:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:48:50 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\driverdashboard.php
+INFO - 2022-02-09 18:48:50 --> Final output sent to browser
+DEBUG - 2022-02-09 18:48:50 --> Total execution time: 0.3636
+INFO - 2022-02-09 18:49:25 --> Config Class Initialized
+INFO - 2022-02-09 18:49:25 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:49:25 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:49:25 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:49:25 --> URI Class Initialized
+INFO - 2022-02-09 18:49:25 --> Router Class Initialized
+INFO - 2022-02-09 18:49:25 --> Output Class Initialized
+INFO - 2022-02-09 18:49:25 --> Security Class Initialized
+DEBUG - 2022-02-09 18:49:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:49:25 --> Input Class Initialized
+INFO - 2022-02-09 18:49:25 --> Language Class Initialized
+ERROR - 2022-02-09 18:49:25 --> 404 Page Not Found: Indexhtml/index
+INFO - 2022-02-09 18:50:11 --> Config Class Initialized
+INFO - 2022-02-09 18:50:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:11 --> URI Class Initialized
+INFO - 2022-02-09 18:50:11 --> Router Class Initialized
+INFO - 2022-02-09 18:50:11 --> Output Class Initialized
+INFO - 2022-02-09 18:50:11 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:11 --> Input Class Initialized
+INFO - 2022-02-09 18:50:11 --> Language Class Initialized
+INFO - 2022-02-09 18:50:11 --> Loader Class Initialized
+INFO - 2022-02-09 18:50:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:50:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:50:11 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:50:11 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:50:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:50:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:50:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:50:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:50:11 --> Encryption Class Initialized
+INFO - 2022-02-09 18:50:11 --> Controller Class Initialized
+INFO - 2022-02-09 18:50:11 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:50:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:50:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:50:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:50:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:50:11 --> Final output sent to browser
+DEBUG - 2022-02-09 18:50:11 --> Total execution time: 0.1400
+INFO - 2022-02-09 18:50:17 --> Config Class Initialized
+INFO - 2022-02-09 18:50:17 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:17 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:17 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:17 --> URI Class Initialized
+INFO - 2022-02-09 18:50:17 --> Router Class Initialized
+INFO - 2022-02-09 18:50:17 --> Output Class Initialized
+INFO - 2022-02-09 18:50:17 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:17 --> Input Class Initialized
+INFO - 2022-02-09 18:50:17 --> Language Class Initialized
+INFO - 2022-02-09 18:50:17 --> Loader Class Initialized
+INFO - 2022-02-09 18:50:17 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:50:17 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:50:17 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:50:17 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:50:17 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:50:17 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:50:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:50:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:50:17 --> Encryption Class Initialized
+INFO - 2022-02-09 18:50:17 --> Controller Class Initialized
+INFO - 2022-02-09 18:50:17 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:50:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:50:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:50:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:50:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:50:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 18:50:17 --> Final output sent to browser
+DEBUG - 2022-02-09 18:50:17 --> Total execution time: 0.1210
+INFO - 2022-02-09 18:50:18 --> Config Class Initialized
+INFO - 2022-02-09 18:50:18 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:18 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:18 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:18 --> URI Class Initialized
+INFO - 2022-02-09 18:50:18 --> Router Class Initialized
+INFO - 2022-02-09 18:50:18 --> Output Class Initialized
+INFO - 2022-02-09 18:50:18 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:18 --> Input Class Initialized
+INFO - 2022-02-09 18:50:18 --> Language Class Initialized
+INFO - 2022-02-09 18:50:18 --> Loader Class Initialized
+INFO - 2022-02-09 18:50:18 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:50:18 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:50:18 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:50:18 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:50:18 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:50:18 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:50:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:50:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:50:18 --> Encryption Class Initialized
+INFO - 2022-02-09 18:50:18 --> Controller Class Initialized
+INFO - 2022-02-09 18:50:18 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:50:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:50:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:50:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:50:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:50:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:50:18 --> Final output sent to browser
+DEBUG - 2022-02-09 18:50:18 --> Total execution time: 0.0997
+INFO - 2022-02-09 18:50:21 --> Config Class Initialized
+INFO - 2022-02-09 18:50:21 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:21 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:21 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:21 --> URI Class Initialized
+INFO - 2022-02-09 18:50:21 --> Router Class Initialized
+INFO - 2022-02-09 18:50:21 --> Output Class Initialized
+INFO - 2022-02-09 18:50:21 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:21 --> Input Class Initialized
+INFO - 2022-02-09 18:50:21 --> Language Class Initialized
+INFO - 2022-02-09 18:50:21 --> Loader Class Initialized
+INFO - 2022-02-09 18:50:21 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:50:21 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:50:21 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:50:21 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:50:21 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:50:21 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:50:21 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:50:21 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:50:21 --> Encryption Class Initialized
+INFO - 2022-02-09 18:50:21 --> Controller Class Initialized
+INFO - 2022-02-09 18:50:21 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:50:21 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:50:21 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:50:21 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:50:21 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:50:21 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:50:21 --> Final output sent to browser
+DEBUG - 2022-02-09 18:50:21 --> Total execution time: 0.0671
+INFO - 2022-02-09 18:50:54 --> Config Class Initialized
+INFO - 2022-02-09 18:50:54 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:54 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:54 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:54 --> URI Class Initialized
+INFO - 2022-02-09 18:50:54 --> Router Class Initialized
+INFO - 2022-02-09 18:50:54 --> Output Class Initialized
+INFO - 2022-02-09 18:50:54 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:54 --> Input Class Initialized
+INFO - 2022-02-09 18:50:54 --> Language Class Initialized
+ERROR - 2022-02-09 18:50:54 --> 404 Page Not Found: Index/index
+INFO - 2022-02-09 18:50:56 --> Config Class Initialized
+INFO - 2022-02-09 18:50:56 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:56 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:56 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:56 --> URI Class Initialized
+INFO - 2022-02-09 18:50:56 --> Router Class Initialized
+INFO - 2022-02-09 18:50:56 --> Output Class Initialized
+INFO - 2022-02-09 18:50:56 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:56 --> Input Class Initialized
+INFO - 2022-02-09 18:50:56 --> Language Class Initialized
+ERROR - 2022-02-09 18:50:56 --> 404 Page Not Found: Index/index
+INFO - 2022-02-09 18:50:58 --> Config Class Initialized
+INFO - 2022-02-09 18:50:58 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:50:58 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:50:58 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:50:58 --> URI Class Initialized
+INFO - 2022-02-09 18:50:58 --> Router Class Initialized
+INFO - 2022-02-09 18:50:58 --> Output Class Initialized
+INFO - 2022-02-09 18:50:58 --> Security Class Initialized
+DEBUG - 2022-02-09 18:50:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:50:58 --> Input Class Initialized
+INFO - 2022-02-09 18:50:58 --> Language Class Initialized
+ERROR - 2022-02-09 18:50:58 --> 404 Page Not Found: Index/index
+INFO - 2022-02-09 18:51:03 --> Config Class Initialized
+INFO - 2022-02-09 18:51:03 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:03 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:03 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:03 --> URI Class Initialized
+INFO - 2022-02-09 18:51:03 --> Router Class Initialized
+INFO - 2022-02-09 18:51:03 --> Output Class Initialized
+INFO - 2022-02-09 18:51:03 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:03 --> Input Class Initialized
+INFO - 2022-02-09 18:51:03 --> Language Class Initialized
+INFO - 2022-02-09 18:51:03 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:03 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:03 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:03 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:03 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:03 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:03 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:03 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:03 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:03 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 18:51:03 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:03 --> Total execution time: 0.0655
+INFO - 2022-02-09 18:51:04 --> Config Class Initialized
+INFO - 2022-02-09 18:51:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:04 --> URI Class Initialized
+INFO - 2022-02-09 18:51:04 --> Router Class Initialized
+INFO - 2022-02-09 18:51:04 --> Output Class Initialized
+INFO - 2022-02-09 18:51:04 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:04 --> Input Class Initialized
+INFO - 2022-02-09 18:51:04 --> Language Class Initialized
+INFO - 2022-02-09 18:51:04 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:04 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:04 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:04 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:04 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:04 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 18:51:04 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:04 --> Total execution time: 0.0505
+INFO - 2022-02-09 18:51:07 --> Config Class Initialized
+INFO - 2022-02-09 18:51:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:07 --> URI Class Initialized
+INFO - 2022-02-09 18:51:07 --> Router Class Initialized
+INFO - 2022-02-09 18:51:07 --> Output Class Initialized
+INFO - 2022-02-09 18:51:07 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:07 --> Input Class Initialized
+INFO - 2022-02-09 18:51:07 --> Language Class Initialized
+INFO - 2022-02-09 18:51:07 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:07 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:07 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:07 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:07 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:07 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:07 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:07 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:07 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:07 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:07 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:07 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:51:08 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:08 --> Total execution time: 0.0977
+INFO - 2022-02-09 18:51:11 --> Config Class Initialized
+INFO - 2022-02-09 18:51:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:11 --> URI Class Initialized
+INFO - 2022-02-09 18:51:11 --> Router Class Initialized
+INFO - 2022-02-09 18:51:11 --> Output Class Initialized
+INFO - 2022-02-09 18:51:11 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:11 --> Input Class Initialized
+INFO - 2022-02-09 18:51:11 --> Language Class Initialized
+INFO - 2022-02-09 18:51:11 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:11 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:11 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:11 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:11 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:11 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:11 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:11 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:11 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:11 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:11 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\aboutus.php
+INFO - 2022-02-09 18:51:11 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:11 --> Total execution time: 0.1013
+INFO - 2022-02-09 18:51:12 --> Config Class Initialized
+INFO - 2022-02-09 18:51:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:12 --> URI Class Initialized
+INFO - 2022-02-09 18:51:12 --> Router Class Initialized
+INFO - 2022-02-09 18:51:12 --> Output Class Initialized
+INFO - 2022-02-09 18:51:12 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:12 --> Input Class Initialized
+INFO - 2022-02-09 18:51:12 --> Language Class Initialized
+INFO - 2022-02-09 18:51:12 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:12 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:12 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:12 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:12 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:12 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:12 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:12 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:12 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:12 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:51:12 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:12 --> Total execution time: 0.0871
+INFO - 2022-02-09 18:51:14 --> Config Class Initialized
+INFO - 2022-02-09 18:51:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:14 --> URI Class Initialized
+INFO - 2022-02-09 18:51:14 --> Router Class Initialized
+INFO - 2022-02-09 18:51:14 --> Output Class Initialized
+INFO - 2022-02-09 18:51:14 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:14 --> Input Class Initialized
+INFO - 2022-02-09 18:51:14 --> Language Class Initialized
+INFO - 2022-02-09 18:51:14 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:14 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:14 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:14 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:14 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:14 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:14 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:14 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:14 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:14 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourservices.php
+INFO - 2022-02-09 18:51:14 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:14 --> Total execution time: 0.1098
+INFO - 2022-02-09 18:51:15 --> Config Class Initialized
+INFO - 2022-02-09 18:51:15 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:15 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:15 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:15 --> URI Class Initialized
+INFO - 2022-02-09 18:51:15 --> Router Class Initialized
+INFO - 2022-02-09 18:51:15 --> Output Class Initialized
+INFO - 2022-02-09 18:51:15 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:15 --> Input Class Initialized
+INFO - 2022-02-09 18:51:15 --> Language Class Initialized
+INFO - 2022-02-09 18:51:15 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:15 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:15 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:15 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:15 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:15 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:15 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:15 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:15 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:15 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:51:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:15 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:51:15 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:15 --> Total execution time: 0.0543
+INFO - 2022-02-09 18:51:24 --> Config Class Initialized
+INFO - 2022-02-09 18:51:24 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:24 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:24 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:24 --> URI Class Initialized
+INFO - 2022-02-09 18:51:24 --> Router Class Initialized
+INFO - 2022-02-09 18:51:24 --> Output Class Initialized
+INFO - 2022-02-09 18:51:24 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:24 --> Input Class Initialized
+INFO - 2022-02-09 18:51:24 --> Language Class Initialized
+INFO - 2022-02-09 18:51:24 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:24 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:24 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:24 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:24 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:24 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:24 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:24 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:24 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:24 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:24 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:24 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:24 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:24 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:51:24 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:24 --> Total execution time: 0.0803
+INFO - 2022-02-09 18:51:38 --> Config Class Initialized
+INFO - 2022-02-09 18:51:38 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:51:38 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:51:38 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:51:38 --> URI Class Initialized
+INFO - 2022-02-09 18:51:38 --> Router Class Initialized
+INFO - 2022-02-09 18:51:38 --> Output Class Initialized
+INFO - 2022-02-09 18:51:38 --> Security Class Initialized
+DEBUG - 2022-02-09 18:51:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:51:38 --> Input Class Initialized
+INFO - 2022-02-09 18:51:38 --> Language Class Initialized
+INFO - 2022-02-09 18:51:38 --> Loader Class Initialized
+INFO - 2022-02-09 18:51:38 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:51:38 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:51:38 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:51:38 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:51:38 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:51:38 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:51:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:51:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:51:38 --> Encryption Class Initialized
+INFO - 2022-02-09 18:51:38 --> Controller Class Initialized
+INFO - 2022-02-09 18:51:38 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:51:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:51:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:51:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:51:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:51:38 --> Final output sent to browser
+DEBUG - 2022-02-09 18:51:38 --> Total execution time: 0.0677
+INFO - 2022-02-09 18:52:03 --> Config Class Initialized
+INFO - 2022-02-09 18:52:03 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:52:03 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:52:03 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:52:03 --> URI Class Initialized
+INFO - 2022-02-09 18:52:03 --> Router Class Initialized
+INFO - 2022-02-09 18:52:03 --> Output Class Initialized
+INFO - 2022-02-09 18:52:03 --> Security Class Initialized
+DEBUG - 2022-02-09 18:52:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:52:03 --> Input Class Initialized
+INFO - 2022-02-09 18:52:03 --> Language Class Initialized
+ERROR - 2022-02-09 18:52:03 --> 404 Page Not Found: Ride-with-cabgohtml/index
+INFO - 2022-02-09 18:52:07 --> Config Class Initialized
+INFO - 2022-02-09 18:52:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:52:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:52:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:52:07 --> URI Class Initialized
+INFO - 2022-02-09 18:52:07 --> Router Class Initialized
+INFO - 2022-02-09 18:52:07 --> Output Class Initialized
+INFO - 2022-02-09 18:52:07 --> Security Class Initialized
+DEBUG - 2022-02-09 18:52:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:52:07 --> Input Class Initialized
+INFO - 2022-02-09 18:52:07 --> Language Class Initialized
+ERROR - 2022-02-09 18:52:07 --> 404 Page Not Found: My-driver-dashboardhtml/index
+INFO - 2022-02-09 18:53:01 --> Config Class Initialized
+INFO - 2022-02-09 18:53:01 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:53:01 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:53:01 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:53:01 --> URI Class Initialized
+INFO - 2022-02-09 18:53:01 --> Router Class Initialized
+INFO - 2022-02-09 18:53:01 --> Output Class Initialized
+INFO - 2022-02-09 18:53:01 --> Security Class Initialized
+DEBUG - 2022-02-09 18:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:53:01 --> Input Class Initialized
+INFO - 2022-02-09 18:53:01 --> Language Class Initialized
+INFO - 2022-02-09 18:53:01 --> Loader Class Initialized
+INFO - 2022-02-09 18:53:01 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:53:01 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:53:01 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:53:01 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:53:01 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:53:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:53:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:53:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:53:01 --> Encryption Class Initialized
+INFO - 2022-02-09 18:53:01 --> Controller Class Initialized
+INFO - 2022-02-09 18:53:01 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:53:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:53:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:53:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:53:01 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\customerdashboard.php
+INFO - 2022-02-09 18:53:01 --> Final output sent to browser
+DEBUG - 2022-02-09 18:53:01 --> Total execution time: 0.2431
+INFO - 2022-02-09 18:53:18 --> Config Class Initialized
+INFO - 2022-02-09 18:53:18 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:53:18 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:53:18 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:53:18 --> URI Class Initialized
+INFO - 2022-02-09 18:53:18 --> Router Class Initialized
+INFO - 2022-02-09 18:53:18 --> Output Class Initialized
+INFO - 2022-02-09 18:53:18 --> Security Class Initialized
+DEBUG - 2022-02-09 18:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:53:18 --> Input Class Initialized
+INFO - 2022-02-09 18:53:18 --> Language Class Initialized
+INFO - 2022-02-09 18:53:18 --> Loader Class Initialized
+INFO - 2022-02-09 18:53:18 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:53:18 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:53:18 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:53:18 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:53:18 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:53:18 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:53:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:53:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:53:18 --> Encryption Class Initialized
+INFO - 2022-02-09 18:53:18 --> Controller Class Initialized
+INFO - 2022-02-09 18:53:18 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:53:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:53:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:53:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:53:18 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\customerdashboard.php
+INFO - 2022-02-09 18:53:18 --> Final output sent to browser
+DEBUG - 2022-02-09 18:53:18 --> Total execution time: 0.0671
+INFO - 2022-02-09 18:53:22 --> Config Class Initialized
+INFO - 2022-02-09 18:53:22 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:53:22 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:53:22 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:53:22 --> URI Class Initialized
+INFO - 2022-02-09 18:53:22 --> Router Class Initialized
+INFO - 2022-02-09 18:53:22 --> Output Class Initialized
+INFO - 2022-02-09 18:53:22 --> Security Class Initialized
+DEBUG - 2022-02-09 18:53:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:53:22 --> Input Class Initialized
+INFO - 2022-02-09 18:53:22 --> Language Class Initialized
+INFO - 2022-02-09 18:53:22 --> Loader Class Initialized
+INFO - 2022-02-09 18:53:22 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:53:22 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:53:22 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:53:22 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:53:22 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:53:22 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:53:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:53:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:53:22 --> Encryption Class Initialized
+INFO - 2022-02-09 18:53:22 --> Controller Class Initialized
+INFO - 2022-02-09 18:53:22 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:53:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:53:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:53:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:53:22 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\driverdashboard.php
+INFO - 2022-02-09 18:53:22 --> Final output sent to browser
+DEBUG - 2022-02-09 18:53:22 --> Total execution time: 0.0633
+INFO - 2022-02-09 18:53:28 --> Config Class Initialized
+INFO - 2022-02-09 18:53:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:53:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:53:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:53:28 --> URI Class Initialized
+INFO - 2022-02-09 18:53:28 --> Router Class Initialized
+INFO - 2022-02-09 18:53:28 --> Output Class Initialized
+INFO - 2022-02-09 18:53:28 --> Security Class Initialized
+DEBUG - 2022-02-09 18:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:53:28 --> Input Class Initialized
+INFO - 2022-02-09 18:53:28 --> Language Class Initialized
+ERROR - 2022-02-09 18:53:28 --> 404 Page Not Found: Ride-with-cabgohtml/index
+INFO - 2022-02-09 18:53:38 --> Config Class Initialized
+INFO - 2022-02-09 18:53:38 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:53:38 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:53:38 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:53:38 --> URI Class Initialized
+INFO - 2022-02-09 18:53:38 --> Router Class Initialized
+INFO - 2022-02-09 18:53:38 --> Output Class Initialized
+INFO - 2022-02-09 18:53:38 --> Security Class Initialized
+DEBUG - 2022-02-09 18:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:53:38 --> Input Class Initialized
+INFO - 2022-02-09 18:53:38 --> Language Class Initialized
+INFO - 2022-02-09 18:53:38 --> Loader Class Initialized
+INFO - 2022-02-09 18:53:38 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:53:38 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:53:38 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:53:38 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:53:38 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:53:38 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:53:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:53:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:53:38 --> Encryption Class Initialized
+INFO - 2022-02-09 18:53:38 --> Controller Class Initialized
+INFO - 2022-02-09 18:53:38 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:53:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:53:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:53:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:53:38 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:53:38 --> Final output sent to browser
+DEBUG - 2022-02-09 18:53:38 --> Total execution time: 0.0888
+INFO - 2022-02-09 18:54:03 --> Config Class Initialized
+INFO - 2022-02-09 18:54:03 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:54:03 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:54:03 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:54:03 --> URI Class Initialized
+INFO - 2022-02-09 18:54:03 --> Router Class Initialized
+INFO - 2022-02-09 18:54:03 --> Output Class Initialized
+INFO - 2022-02-09 18:54:03 --> Security Class Initialized
+DEBUG - 2022-02-09 18:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:54:03 --> Input Class Initialized
+INFO - 2022-02-09 18:54:03 --> Language Class Initialized
+INFO - 2022-02-09 18:54:03 --> Loader Class Initialized
+INFO - 2022-02-09 18:54:03 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:54:03 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:54:03 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:54:03 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:54:03 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:54:03 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:54:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:54:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:54:03 --> Encryption Class Initialized
+INFO - 2022-02-09 18:54:03 --> Controller Class Initialized
+INFO - 2022-02-09 18:54:03 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:54:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:54:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:54:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:54:03 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:54:03 --> Final output sent to browser
+DEBUG - 2022-02-09 18:54:03 --> Total execution time: 0.0698
+INFO - 2022-02-09 18:54:06 --> Config Class Initialized
+INFO - 2022-02-09 18:54:06 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:54:06 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:54:06 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:54:06 --> URI Class Initialized
+INFO - 2022-02-09 18:54:06 --> Router Class Initialized
+INFO - 2022-02-09 18:54:06 --> Output Class Initialized
+INFO - 2022-02-09 18:54:06 --> Security Class Initialized
+DEBUG - 2022-02-09 18:54:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:54:06 --> Input Class Initialized
+INFO - 2022-02-09 18:54:06 --> Language Class Initialized
+INFO - 2022-02-09 18:54:06 --> Loader Class Initialized
+INFO - 2022-02-09 18:54:06 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:54:06 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:54:06 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:54:06 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:54:06 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:54:06 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:54:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:54:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:54:06 --> Encryption Class Initialized
+INFO - 2022-02-09 18:54:06 --> Controller Class Initialized
+INFO - 2022-02-09 18:54:06 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:54:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:54:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:54:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:54:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:54:06 --> Final output sent to browser
+DEBUG - 2022-02-09 18:54:06 --> Total execution time: 0.0438
+INFO - 2022-02-09 18:54:11 --> Config Class Initialized
+INFO - 2022-02-09 18:54:11 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:54:11 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:54:11 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:54:11 --> URI Class Initialized
+INFO - 2022-02-09 18:54:11 --> Router Class Initialized
+INFO - 2022-02-09 18:54:11 --> Output Class Initialized
+INFO - 2022-02-09 18:54:11 --> Security Class Initialized
+DEBUG - 2022-02-09 18:54:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:54:11 --> Input Class Initialized
+INFO - 2022-02-09 18:54:11 --> Language Class Initialized
+ERROR - 2022-02-09 18:54:11 --> 404 Page Not Found: Ride-with-cabgohtml/index
+INFO - 2022-02-09 18:54:16 --> Config Class Initialized
+INFO - 2022-02-09 18:54:16 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:54:16 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:54:16 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:54:16 --> URI Class Initialized
+INFO - 2022-02-09 18:54:16 --> Router Class Initialized
+INFO - 2022-02-09 18:54:16 --> Output Class Initialized
+INFO - 2022-02-09 18:54:16 --> Security Class Initialized
+DEBUG - 2022-02-09 18:54:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:54:16 --> Input Class Initialized
+INFO - 2022-02-09 18:54:16 --> Language Class Initialized
+INFO - 2022-02-09 18:54:16 --> Loader Class Initialized
+INFO - 2022-02-09 18:54:16 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:54:16 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:54:16 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:54:16 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:54:16 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:54:16 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:54:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:54:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:54:16 --> Encryption Class Initialized
+INFO - 2022-02-09 18:54:16 --> Controller Class Initialized
+INFO - 2022-02-09 18:54:16 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:54:16 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:54:16 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:54:16 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:54:16 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:54:16 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:54:16 --> Final output sent to browser
+DEBUG - 2022-02-09 18:54:16 --> Total execution time: 0.1646
+INFO - 2022-02-09 18:54:30 --> Config Class Initialized
+INFO - 2022-02-09 18:54:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:54:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:54:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:54:30 --> URI Class Initialized
+INFO - 2022-02-09 18:54:30 --> Router Class Initialized
+INFO - 2022-02-09 18:54:30 --> Output Class Initialized
+INFO - 2022-02-09 18:54:30 --> Security Class Initialized
+DEBUG - 2022-02-09 18:54:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:54:30 --> Input Class Initialized
+INFO - 2022-02-09 18:54:30 --> Language Class Initialized
+INFO - 2022-02-09 18:54:30 --> Loader Class Initialized
+INFO - 2022-02-09 18:54:30 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:54:30 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:54:30 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:54:30 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:54:30 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:54:30 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:54:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:54:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:54:30 --> Encryption Class Initialized
+INFO - 2022-02-09 18:54:30 --> Controller Class Initialized
+INFO - 2022-02-09 18:54:30 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:54:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:54:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:54:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:54:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:54:30 --> Final output sent to browser
+DEBUG - 2022-02-09 18:54:30 --> Total execution time: 0.0700
+INFO - 2022-02-09 18:55:16 --> Config Class Initialized
+INFO - 2022-02-09 18:55:16 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:55:16 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:55:16 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:55:16 --> URI Class Initialized
+INFO - 2022-02-09 18:55:16 --> Router Class Initialized
+INFO - 2022-02-09 18:55:16 --> Output Class Initialized
+INFO - 2022-02-09 18:55:16 --> Security Class Initialized
+DEBUG - 2022-02-09 18:55:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:55:16 --> Input Class Initialized
+INFO - 2022-02-09 18:55:16 --> Language Class Initialized
+ERROR - 2022-02-09 18:55:16 --> 404 Page Not Found: Sign-uphtml/index
+INFO - 2022-02-09 18:55:27 --> Config Class Initialized
+INFO - 2022-02-09 18:55:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:55:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:55:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:55:27 --> URI Class Initialized
+INFO - 2022-02-09 18:55:27 --> Router Class Initialized
+INFO - 2022-02-09 18:55:27 --> Output Class Initialized
+INFO - 2022-02-09 18:55:27 --> Security Class Initialized
+DEBUG - 2022-02-09 18:55:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:55:27 --> Input Class Initialized
+INFO - 2022-02-09 18:55:27 --> Language Class Initialized
+ERROR - 2022-02-09 18:55:27 --> 404 Page Not Found: Sign-uphtml/index
+INFO - 2022-02-09 18:56:01 --> Config Class Initialized
+INFO - 2022-02-09 18:56:01 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:01 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:01 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:01 --> URI Class Initialized
+INFO - 2022-02-09 18:56:01 --> Router Class Initialized
+INFO - 2022-02-09 18:56:01 --> Output Class Initialized
+INFO - 2022-02-09 18:56:01 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:01 --> Input Class Initialized
+INFO - 2022-02-09 18:56:01 --> Language Class Initialized
+INFO - 2022-02-09 18:56:01 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:01 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:01 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:01 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:01 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:01 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:01 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:01 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:01 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:01 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:02 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 18:56:02 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:02 --> Total execution time: 0.2239
+INFO - 2022-02-09 18:56:12 --> Config Class Initialized
+INFO - 2022-02-09 18:56:12 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:12 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:12 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:12 --> URI Class Initialized
+INFO - 2022-02-09 18:56:12 --> Router Class Initialized
+INFO - 2022-02-09 18:56:12 --> Output Class Initialized
+INFO - 2022-02-09 18:56:12 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:12 --> Input Class Initialized
+INFO - 2022-02-09 18:56:12 --> Language Class Initialized
+INFO - 2022-02-09 18:56:12 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:12 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:12 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:12 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:12 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:12 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:12 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:12 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:12 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:12 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:56:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:56:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:12 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:56:12 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:12 --> Total execution time: 0.0627
+INFO - 2022-02-09 18:56:14 --> Config Class Initialized
+INFO - 2022-02-09 18:56:14 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:14 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:14 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:14 --> URI Class Initialized
+INFO - 2022-02-09 18:56:14 --> Router Class Initialized
+INFO - 2022-02-09 18:56:14 --> Output Class Initialized
+INFO - 2022-02-09 18:56:14 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:14 --> Input Class Initialized
+INFO - 2022-02-09 18:56:14 --> Language Class Initialized
+INFO - 2022-02-09 18:56:14 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:14 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:14 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:14 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:14 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:14 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:14 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:14 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:14 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:14 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:14 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 18:56:14 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:14 --> Total execution time: 0.0734
+INFO - 2022-02-09 18:56:17 --> Config Class Initialized
+INFO - 2022-02-09 18:56:17 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:17 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:17 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:17 --> URI Class Initialized
+INFO - 2022-02-09 18:56:17 --> Router Class Initialized
+INFO - 2022-02-09 18:56:17 --> Output Class Initialized
+INFO - 2022-02-09 18:56:17 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:17 --> Input Class Initialized
+INFO - 2022-02-09 18:56:17 --> Language Class Initialized
+INFO - 2022-02-09 18:56:17 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:17 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:17 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:17 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:17 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:17 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:17 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:17 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:17 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:17 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:17 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signin.php
+INFO - 2022-02-09 18:56:17 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:17 --> Total execution time: 0.0864
+INFO - 2022-02-09 18:56:20 --> Config Class Initialized
+INFO - 2022-02-09 18:56:20 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:20 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:20 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:20 --> URI Class Initialized
+INFO - 2022-02-09 18:56:20 --> Router Class Initialized
+INFO - 2022-02-09 18:56:20 --> Output Class Initialized
+INFO - 2022-02-09 18:56:20 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:20 --> Input Class Initialized
+INFO - 2022-02-09 18:56:20 --> Language Class Initialized
+INFO - 2022-02-09 18:56:20 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:20 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:20 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:20 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:20 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:20 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:20 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:20 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:20 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:20 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:20 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:20 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:20 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 18:56:20 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:20 --> Total execution time: 0.0534
+INFO - 2022-02-09 18:56:26 --> Config Class Initialized
+INFO - 2022-02-09 18:56:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:26 --> URI Class Initialized
+INFO - 2022-02-09 18:56:26 --> Router Class Initialized
+INFO - 2022-02-09 18:56:26 --> Output Class Initialized
+INFO - 2022-02-09 18:56:26 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:26 --> Input Class Initialized
+INFO - 2022-02-09 18:56:26 --> Language Class Initialized
+INFO - 2022-02-09 18:56:26 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:26 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:26 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:26 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:26 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:26 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:56:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ridewithcitytaxi.php
+INFO - 2022-02-09 18:56:26 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:26 --> Total execution time: 0.0687
+INFO - 2022-02-09 18:56:30 --> Config Class Initialized
+INFO - 2022-02-09 18:56:30 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:56:30 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:56:30 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:56:30 --> URI Class Initialized
+INFO - 2022-02-09 18:56:30 --> Router Class Initialized
+INFO - 2022-02-09 18:56:30 --> Output Class Initialized
+INFO - 2022-02-09 18:56:30 --> Security Class Initialized
+DEBUG - 2022-02-09 18:56:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:56:30 --> Input Class Initialized
+INFO - 2022-02-09 18:56:30 --> Language Class Initialized
+INFO - 2022-02-09 18:56:30 --> Loader Class Initialized
+INFO - 2022-02-09 18:56:30 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:56:30 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:56:30 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:56:30 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:56:30 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:56:30 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:56:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:56:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:56:30 --> Encryption Class Initialized
+INFO - 2022-02-09 18:56:30 --> Controller Class Initialized
+INFO - 2022-02-09 18:56:30 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:56:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:56:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:56:30 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\signup.php
+INFO - 2022-02-09 18:56:30 --> Final output sent to browser
+DEBUG - 2022-02-09 18:56:30 --> Total execution time: 0.0653
+INFO - 2022-02-09 18:59:27 --> Config Class Initialized
+INFO - 2022-02-09 18:59:27 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:59:27 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:59:27 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:59:27 --> URI Class Initialized
+INFO - 2022-02-09 18:59:27 --> Router Class Initialized
+INFO - 2022-02-09 18:59:27 --> Output Class Initialized
+INFO - 2022-02-09 18:59:27 --> Security Class Initialized
+DEBUG - 2022-02-09 18:59:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:59:27 --> Input Class Initialized
+INFO - 2022-02-09 18:59:27 --> Language Class Initialized
+INFO - 2022-02-09 18:59:27 --> Loader Class Initialized
+INFO - 2022-02-09 18:59:27 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:59:27 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:59:27 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:59:27 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:59:27 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:59:27 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:59:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:59:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:59:27 --> Encryption Class Initialized
+INFO - 2022-02-09 18:59:27 --> Controller Class Initialized
+INFO - 2022-02-09 18:59:27 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:59:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:59:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:59:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:59:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:59:27 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:59:27 --> Final output sent to browser
+DEBUG - 2022-02-09 18:59:27 --> Total execution time: 0.0880
+INFO - 2022-02-09 18:59:28 --> Config Class Initialized
+INFO - 2022-02-09 18:59:28 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:59:28 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:59:28 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:59:28 --> URI Class Initialized
+INFO - 2022-02-09 18:59:28 --> Router Class Initialized
+INFO - 2022-02-09 18:59:28 --> Output Class Initialized
+INFO - 2022-02-09 18:59:28 --> Security Class Initialized
+DEBUG - 2022-02-09 18:59:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:59:28 --> Input Class Initialized
+INFO - 2022-02-09 18:59:28 --> Language Class Initialized
+INFO - 2022-02-09 18:59:28 --> Loader Class Initialized
+INFO - 2022-02-09 18:59:28 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:59:28 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:59:28 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:59:28 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:59:28 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:59:28 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:59:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:59:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:59:28 --> Encryption Class Initialized
+INFO - 2022-02-09 18:59:28 --> Controller Class Initialized
+INFO - 2022-02-09 18:59:28 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:59:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:59:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:59:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:59:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:59:28 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:59:28 --> Final output sent to browser
+DEBUG - 2022-02-09 18:59:28 --> Total execution time: 0.0688
+INFO - 2022-02-09 18:59:29 --> Config Class Initialized
+INFO - 2022-02-09 18:59:29 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:59:29 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:59:29 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:59:29 --> URI Class Initialized
+INFO - 2022-02-09 18:59:29 --> Router Class Initialized
+INFO - 2022-02-09 18:59:29 --> Output Class Initialized
+INFO - 2022-02-09 18:59:29 --> Security Class Initialized
+DEBUG - 2022-02-09 18:59:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:59:29 --> Input Class Initialized
+INFO - 2022-02-09 18:59:29 --> Language Class Initialized
+INFO - 2022-02-09 18:59:29 --> Loader Class Initialized
+INFO - 2022-02-09 18:59:29 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:59:29 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:59:29 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:59:29 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:59:29 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:59:29 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:59:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:59:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:59:29 --> Encryption Class Initialized
+INFO - 2022-02-09 18:59:29 --> Controller Class Initialized
+INFO - 2022-02-09 18:59:29 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:59:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:59:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:59:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:59:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:59:29 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:59:29 --> Final output sent to browser
+DEBUG - 2022-02-09 18:59:29 --> Total execution time: 0.0738
+INFO - 2022-02-09 18:59:39 --> Config Class Initialized
+INFO - 2022-02-09 18:59:39 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:59:39 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:59:39 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:59:39 --> URI Class Initialized
+INFO - 2022-02-09 18:59:39 --> Router Class Initialized
+INFO - 2022-02-09 18:59:39 --> Output Class Initialized
+INFO - 2022-02-09 18:59:39 --> Security Class Initialized
+DEBUG - 2022-02-09 18:59:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:59:39 --> Input Class Initialized
+INFO - 2022-02-09 18:59:39 --> Language Class Initialized
+INFO - 2022-02-09 18:59:39 --> Loader Class Initialized
+INFO - 2022-02-09 18:59:39 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:59:39 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:59:39 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:59:39 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:59:39 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:59:39 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:59:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:59:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:59:39 --> Encryption Class Initialized
+INFO - 2022-02-09 18:59:39 --> Controller Class Initialized
+INFO - 2022-02-09 18:59:39 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:59:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:59:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:59:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:59:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:59:39 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:59:39 --> Final output sent to browser
+DEBUG - 2022-02-09 18:59:39 --> Total execution time: 0.0612
+INFO - 2022-02-09 18:59:47 --> Config Class Initialized
+INFO - 2022-02-09 18:59:47 --> Hooks Class Initialized
+DEBUG - 2022-02-09 18:59:47 --> UTF-8 Support Enabled
+INFO - 2022-02-09 18:59:47 --> Utf8 Class Initialized
+INFO - 2022-02-09 18:59:47 --> URI Class Initialized
+INFO - 2022-02-09 18:59:47 --> Router Class Initialized
+INFO - 2022-02-09 18:59:47 --> Output Class Initialized
+INFO - 2022-02-09 18:59:47 --> Security Class Initialized
+DEBUG - 2022-02-09 18:59:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 18:59:47 --> Input Class Initialized
+INFO - 2022-02-09 18:59:47 --> Language Class Initialized
+INFO - 2022-02-09 18:59:47 --> Loader Class Initialized
+INFO - 2022-02-09 18:59:47 --> Helper loaded: form_helper
+INFO - 2022-02-09 18:59:47 --> Helper loaded: url_helper
+INFO - 2022-02-09 18:59:47 --> Helper loaded: email_helper
+INFO - 2022-02-09 18:59:47 --> Helper loaded: array_helper
+INFO - 2022-02-09 18:59:47 --> Database Driver Class Initialized
+INFO - 2022-02-09 18:59:47 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 18:59:47 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 18:59:47 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 18:59:47 --> Encryption Class Initialized
+INFO - 2022-02-09 18:59:47 --> Controller Class Initialized
+INFO - 2022-02-09 18:59:47 --> Model "ModelCore" initialized
+INFO - 2022-02-09 18:59:47 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 18:59:47 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 18:59:47 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 18:59:47 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 18:59:47 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 18:59:47 --> Final output sent to browser
+DEBUG - 2022-02-09 18:59:47 --> Total execution time: 0.0626
+INFO - 2022-02-09 19:00:26 --> Config Class Initialized
+INFO - 2022-02-09 19:00:26 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:00:26 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:00:26 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:00:26 --> URI Class Initialized
+INFO - 2022-02-09 19:00:26 --> Router Class Initialized
+INFO - 2022-02-09 19:00:26 --> Output Class Initialized
+INFO - 2022-02-09 19:00:26 --> Security Class Initialized
+DEBUG - 2022-02-09 19:00:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:00:26 --> Input Class Initialized
+INFO - 2022-02-09 19:00:26 --> Language Class Initialized
+INFO - 2022-02-09 19:00:26 --> Loader Class Initialized
+INFO - 2022-02-09 19:00:26 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:00:26 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:00:26 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:00:26 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:00:26 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:00:26 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:00:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:00:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:00:26 --> Encryption Class Initialized
+INFO - 2022-02-09 19:00:26 --> Controller Class Initialized
+INFO - 2022-02-09 19:00:26 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:00:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:00:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:00:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:00:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:00:26 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 19:00:26 --> Final output sent to browser
+DEBUG - 2022-02-09 19:00:26 --> Total execution time: 0.0649
+INFO - 2022-02-09 19:00:33 --> Config Class Initialized
+INFO - 2022-02-09 19:00:33 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:00:33 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:00:33 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:00:33 --> URI Class Initialized
+INFO - 2022-02-09 19:00:33 --> Router Class Initialized
+INFO - 2022-02-09 19:00:33 --> Output Class Initialized
+INFO - 2022-02-09 19:00:33 --> Security Class Initialized
+DEBUG - 2022-02-09 19:00:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:00:33 --> Input Class Initialized
+INFO - 2022-02-09 19:00:33 --> Language Class Initialized
+INFO - 2022-02-09 19:00:33 --> Loader Class Initialized
+INFO - 2022-02-09 19:00:33 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:00:33 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:00:33 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:00:33 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:00:33 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:00:33 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:00:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:00:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:00:33 --> Encryption Class Initialized
+INFO - 2022-02-09 19:00:33 --> Controller Class Initialized
+INFO - 2022-02-09 19:00:33 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:00:33 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:00:33 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:00:33 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:00:33 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:00:33 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 19:00:33 --> Final output sent to browser
+DEBUG - 2022-02-09 19:00:33 --> Total execution time: 0.0741
+INFO - 2022-02-09 19:00:53 --> Config Class Initialized
+INFO - 2022-02-09 19:00:53 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:00:53 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:00:53 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:00:53 --> URI Class Initialized
+INFO - 2022-02-09 19:00:53 --> Router Class Initialized
+INFO - 2022-02-09 19:00:53 --> Output Class Initialized
+INFO - 2022-02-09 19:00:53 --> Security Class Initialized
+DEBUG - 2022-02-09 19:00:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:00:53 --> Input Class Initialized
+INFO - 2022-02-09 19:00:53 --> Language Class Initialized
+INFO - 2022-02-09 19:00:53 --> Loader Class Initialized
+INFO - 2022-02-09 19:00:53 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:00:53 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:00:53 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:00:53 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:00:53 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:00:53 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:00:53 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:00:53 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:00:53 --> Encryption Class Initialized
+INFO - 2022-02-09 19:00:53 --> Controller Class Initialized
+INFO - 2022-02-09 19:00:53 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:00:53 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:00:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:00:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:00:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:00:54 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 19:00:54 --> Final output sent to browser
+DEBUG - 2022-02-09 19:00:54 --> Total execution time: 0.0657
+INFO - 2022-02-09 19:01:04 --> Config Class Initialized
+INFO - 2022-02-09 19:01:04 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:04 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:04 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:04 --> URI Class Initialized
+INFO - 2022-02-09 19:01:04 --> Router Class Initialized
+INFO - 2022-02-09 19:01:04 --> Output Class Initialized
+INFO - 2022-02-09 19:01:04 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:04 --> Input Class Initialized
+INFO - 2022-02-09 19:01:04 --> Language Class Initialized
+INFO - 2022-02-09 19:01:04 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:04 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:04 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:04 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:04 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:04 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:04 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:04 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:04 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:04 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:04 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\aboutus.php
+INFO - 2022-02-09 19:01:04 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:04 --> Total execution time: 0.0657
+INFO - 2022-02-09 19:01:05 --> Config Class Initialized
+INFO - 2022-02-09 19:01:05 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:05 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:05 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:05 --> URI Class Initialized
+INFO - 2022-02-09 19:01:05 --> Router Class Initialized
+INFO - 2022-02-09 19:01:05 --> Output Class Initialized
+INFO - 2022-02-09 19:01:05 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:05 --> Input Class Initialized
+INFO - 2022-02-09 19:01:05 --> Language Class Initialized
+INFO - 2022-02-09 19:01:05 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:05 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:05 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:05 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:05 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:05 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:05 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:05 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:05 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:05 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:05 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourservices.php
+INFO - 2022-02-09 19:01:05 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:05 --> Total execution time: 0.0688
+INFO - 2022-02-09 19:01:06 --> Config Class Initialized
+INFO - 2022-02-09 19:01:06 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:06 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:06 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:06 --> URI Class Initialized
+INFO - 2022-02-09 19:01:06 --> Router Class Initialized
+INFO - 2022-02-09 19:01:06 --> Output Class Initialized
+INFO - 2022-02-09 19:01:06 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:06 --> Input Class Initialized
+INFO - 2022-02-09 19:01:06 --> Language Class Initialized
+INFO - 2022-02-09 19:01:06 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:06 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:06 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:06 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:06 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:06 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:06 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:06 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:06 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:06 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:06 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\ourvehicles.php
+INFO - 2022-02-09 19:01:06 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:06 --> Total execution time: 0.1164
+INFO - 2022-02-09 19:01:07 --> Config Class Initialized
+INFO - 2022-02-09 19:01:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:07 --> URI Class Initialized
+INFO - 2022-02-09 19:01:07 --> Router Class Initialized
+INFO - 2022-02-09 19:01:07 --> Output Class Initialized
+INFO - 2022-02-09 19:01:07 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:07 --> Input Class Initialized
+INFO - 2022-02-09 19:01:07 --> Language Class Initialized
+INFO - 2022-02-09 19:01:07 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:07 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:07 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:07 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:07 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:07 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:07 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:07 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\packages.php
+INFO - 2022-02-09 19:01:07 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:07 --> Total execution time: 0.0960
+INFO - 2022-02-09 19:01:07 --> Config Class Initialized
+INFO - 2022-02-09 19:01:07 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:07 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:07 --> URI Class Initialized
+INFO - 2022-02-09 19:01:07 --> Router Class Initialized
+INFO - 2022-02-09 19:01:07 --> Output Class Initialized
+INFO - 2022-02-09 19:01:07 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:07 --> Input Class Initialized
+INFO - 2022-02-09 19:01:07 --> Language Class Initialized
+INFO - 2022-02-09 19:01:07 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:07 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:07 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:07 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:07 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:07 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:07 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:07 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:07 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:07 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:07 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\contactus.php
+INFO - 2022-02-09 19:01:07 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:07 --> Total execution time: 0.0901
+INFO - 2022-02-09 19:01:09 --> Config Class Initialized
+INFO - 2022-02-09 19:01:09 --> Hooks Class Initialized
+DEBUG - 2022-02-09 19:01:09 --> UTF-8 Support Enabled
+INFO - 2022-02-09 19:01:09 --> Utf8 Class Initialized
+INFO - 2022-02-09 19:01:09 --> URI Class Initialized
+INFO - 2022-02-09 19:01:09 --> Router Class Initialized
+INFO - 2022-02-09 19:01:09 --> Output Class Initialized
+INFO - 2022-02-09 19:01:09 --> Security Class Initialized
+DEBUG - 2022-02-09 19:01:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2022-02-09 19:01:09 --> Input Class Initialized
+INFO - 2022-02-09 19:01:09 --> Language Class Initialized
+INFO - 2022-02-09 19:01:09 --> Loader Class Initialized
+INFO - 2022-02-09 19:01:09 --> Helper loaded: form_helper
+INFO - 2022-02-09 19:01:09 --> Helper loaded: url_helper
+INFO - 2022-02-09 19:01:09 --> Helper loaded: email_helper
+INFO - 2022-02-09 19:01:09 --> Helper loaded: array_helper
+INFO - 2022-02-09 19:01:10 --> Database Driver Class Initialized
+INFO - 2022-02-09 19:01:10 --> Form Validation Class Initialized
+DEBUG - 2022-02-09 19:01:10 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2022-02-09 19:01:10 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2022-02-09 19:01:10 --> Encryption Class Initialized
+INFO - 2022-02-09 19:01:10 --> Controller Class Initialized
+INFO - 2022-02-09 19:01:10 --> Model "ModelCore" initialized
+INFO - 2022-02-09 19:01:10 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/head.php
+INFO - 2022-02-09 19:01:10 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/header.php
+INFO - 2022-02-09 19:01:10 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/footer.php
+INFO - 2022-02-09 19:01:10 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\inc/foot.php
+INFO - 2022-02-09 19:01:10 --> File loaded: C:\xampp\htdocs\citytaxi\application\views\index.php
+INFO - 2022-02-09 19:01:10 --> Final output sent to browser
+DEBUG - 2022-02-09 19:01:10 --> Total execution time: 0.2334

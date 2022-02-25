@@ -1,5 +1,4 @@
 <?php
-/*! INFINITUM Validation CI PHP v1.0.0.1 (http://www.infinitum.lk/developer) | Copyright (c) 2018 INFINITUM | Licensed under the MIT license */
 class ModelValidation extends CI_Model {
 	
 	public function __construct() {

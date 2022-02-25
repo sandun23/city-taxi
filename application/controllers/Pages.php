@@ -67,7 +67,7 @@ class Pages extends CI_Controller {
 	public function ridewithcitytaxi() {
 		$data = array(
 			"assets" => $this->ModelCore->getAssets()
-		);	
+		);
 		$this->load->view("ridewithcitytaxi", $data);
 	}
 

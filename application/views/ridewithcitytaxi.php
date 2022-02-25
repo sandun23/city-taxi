@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <?php 
+  <?php
     $this->load->view('inc/head', array(
       "assets" => $assets,
       "extra_css" => array()
-    )); 
+    ));
   ?>
  
  <body class="theme-2">
@@ -72,16 +72,17 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="booking-form">
-                        <form action="#">
+                        <form action="<?php echo base_url('ride-with-citytaxi/reserve') ?>" method="post" enctype="multipart/form-data">
+                            <input type="number" name="customer_id" placeholder="Customer ID" id="customer_id" class="form-control">
                             <div class="from-group destination">
                                 <label for="inputFrom">From</label>
                                 <i class="fas fa-map-marker-alt"></i>
-                                <input type="text" name="frominputDestination" placeholder="Select Pickup" id="inputFrom" class="form-control">
+                                <input type="text" name="start_location" placeholder="Select Pickup" id="start_location" class="form-control">
                             </div>
                             <div class="from-group destination">
                                 <label for="inputDestination">Where to?</label>
                                 <i class="fas fa-map-marker-alt"></i>
-                                <input type="text" name="desctination" placeholder="Select Destination" id="inputDestination" class="form-control">
+                                <input type="text" name="end_location" placeholder="Select Destination" id="end_location" class="form-control">
                             </div>
                             <div class="payment-options-wrapper">
                                 <h2>Payment Method</h2>
@@ -92,11 +93,11 @@
                                     </div>
                                     <div class="form-check form-check-inline">
                                         <input class="form-check-input" type="radio" name="payment-opts" id="banking-pay" value="option2">
-                                        <label class="form-check-label" for="banking-pay">Net Banking</label>
+                                        <label class="form-check-label" for="banking-pay">Bank Transfer</label>
                                     </div>
                                     <div class="form-check form-check-inline">
                                         <input class="form-check-input" type="radio" name="payment-opts" id="card-pay" value="option3">
-                                        <label class="form-check-label" for="card-pay">Debit Card</label>
+                                        <label class="form-check-label" for="card-pay">Card Payment</label>
                                     </div>
                                 </div>
                             </div>
@@ -105,54 +106,54 @@
                                 <h2>Selected Car</h2>
                                 <div class="selected-car">
                                     <div class="from-group car-options">
+<!--                                        <div class="form-check form-check-inline">-->
+<!--                                            <input class="form-check-input" type="radio" name="car-opts" id="scooter" value="option1">-->
+<!--                                            <label class="form-check-label" for="scooter">-->
+<!--                                                <img src="--><?php //echo $assets['img'];?><!--dashboard/car-1.png" alt="car">-->
+<!--                                            </label>-->
+<!--                                            <div class="car-details">-->
+<!--                                                <h4>1x</h4>-->
+<!--                                                <p>Scooter</p>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                        <div class="form-check form-check-inline">-->
+<!--                                            <input class="form-check-input" type="radio" name="car-opts" id="alto" value="option2">-->
+<!--                                            <label class="form-check-label" for="alto">-->
+<!--                                                <img src="--><?php //echo $assets['img'];?><!--dashboard/car-2.png" alt="Car">-->
+<!--                                            </label>-->
+<!--                                            <div class="car-details">-->
+<!--                                                <h4>2x</h4>-->
+<!--                                                <p>Alto</p>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
                                         <div class="form-check form-check-inline">
-                                            <input class="form-check-input" type="radio" name="car-opts" id="scooter" value="option1">
-                                            <label class="form-check-label" for="scooter">
-                                                <img src="<?php echo $assets['img'];?>dashboard/car-1.png" alt="car">
-                                            </label>
-                                            <div class="car-details">
-                                                <h4>1x</h4>
-                                                <p>Scooter</p>
-                                            </div>
-                                        </div>
-                                        <div class="form-check form-check-inline">
-                                            <input class="form-check-input" type="radio" name="car-opts" id="alto" value="option2">
-                                            <label class="form-check-label" for="alto">
-                                                <img src="<?php echo $assets['img'];?>dashboard/car-2.png" alt="Car">
-                                            </label>
-                                            <div class="car-details">
-                                                <h4>2x</h4>
-                                                <p>Alto</p>
-                                            </div>
-                                        </div>
-                                        <div class="form-check form-check-inline">
-                                            <input class="form-check-input" type="radio" name="car-opts" id="swift" value="option3">
-                                            <label class="form-check-label" for="swift">
+                                            <input class="form-check-input" type="radio" name="vehicle_type" id="mini" value="1">
+                                            <label class="form-check-label" for="mini">
                                                 <img src="<?php echo $assets['img'];?>dashboard/car-3.png" alt="Car">
                                             </label>
                                             <div class="car-details">
-                                                <h4>3x</h4>
-                                                <p>Swift dzire</p>
+                                                <h4>2x</h4>
+                                                <p>Mini Car</p>
                                             </div>
                                         </div>
                                         <div class="form-check form-check-inline">
-                                            <input class="form-check-input" type="radio" name="car-opts" id="luxury" value="option3">
-                                            <label class="form-check-label" for="luxury">
+                                            <input class="form-check-input" type="radio" name="vehicle_type" id="car" value="2">
+                                            <label class="form-check-label" for="car">
                                                 <img src="<?php echo $assets['img'];?>dashboard/car-4.png" alt="Car">
                                             </label>
                                             <div class="car-details">
-                                                <h4>4x</h4>
-                                                <p>Luxury</p>
+                                                <h4>3x</h4>
+                                                <p>Car</p>
                                             </div>
                                         </div>
                                         <div class="form-check form-check-inline">
-                                            <input class="form-check-input" type="radio" name="car-opts" id="tourist" value="option3">
-                                            <label class="form-check-label" for="tourist">
+                                            <input class="form-check-input" type="radio" name="vehicle_type" id="van" value="3">
+                                            <label class="form-check-label" for="van">
                                                 <img src="<?php echo $assets['img'];?>dashboard/car-5.png" alt="Car">
                                             </label>
                                             <div class="car-details">
                                                 <h4>5x</h4>
-                                                <p>Tourist</p>
+                                                <p>Van</p>
                                             </div>
                                         </div>
                                     </div>

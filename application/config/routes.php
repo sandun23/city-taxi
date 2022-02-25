@@ -62,6 +62,14 @@ $route['packages'] = 'Pages/packages';
 $route['contact-us'] = 'Pages/contactus';
 $route['sign-up'] = 'Pages/signup';
 $route['sign-in'] = 'Pages/signin'; 
+
 $route['ride-with-citytaxi'] = 'Pages/ridewithcitytaxi'; 
+$route['ride-with-citytaxi/reserve'] = 'BookingController/InsertBooking';
+
+
+//$route['ride-with-citytaxi/drivers'] = 'BookingController/InsertBooking';
+
+
+
 $route['customer-dashboard'] = 'Pages/customerdashboard';
 $route['driver-dashboard'] = 'Pages/driverdashboard';
